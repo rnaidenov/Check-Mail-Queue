@@ -1,0 +1,271 @@
+2016-07-25 13:39:13,555  INFO [main] - myLogger.getReqNo 36 - Number of requests is : null
+2016-07-25 13:39:13,559 ERROR [main] - myLogger.checkQueueStatus 32 - java.lang.NumberFormatException: null line 20 in QueueChecker
+2016-07-25 13:39:13,573 DEBUG [main] - org.apache.http.client.protocol.RequestAddCookies.process 122 - CookieSpec selected: default
+2016-07-25 13:39:13,580 DEBUG [main] - org.apache.http.client.protocol.RequestAuthCache.process 76 - Auth cache not set in the context
+2016-07-25 13:39:13,583 DEBUG [main] - org.apache.http.impl.conn.PoolingHttpClientConnectionManager.requestConnection 249 - Connection request: [route: {}->http://192.168.145.206:8033][total kept alive: 0; route allocated: 0 of 2; total allocated: 0 of 20]
+2016-07-25 13:39:13,593 DEBUG [main] - org.apache.http.impl.conn.PoolingHttpClientConnectionManager.leaseConnection 282 - Connection leased: [id: 0][route: {}->http://192.168.145.206:8033][total kept alive: 0; route allocated: 1 of 2; total allocated: 1 of 20]
+2016-07-25 13:39:13,594 DEBUG [main] - org.apache.http.impl.execchain.MainClientExec.execute 234 - Opening connection {}->http://192.168.145.206:8033
+2016-07-25 13:39:13,597 DEBUG [main] - org.apache.http.impl.conn.DefaultHttpClientConnectionOperator.connect 138 - Connecting to /192.168.145.206:8033
+2016-07-25 13:39:13,703 DEBUG [main] - org.apache.http.impl.conn.DefaultHttpClientConnectionOperator.connect 145 - Connection established 192.168.145.136:53463<->192.168.145.206:8033
+2016-07-25 13:39:13,704 DEBUG [main] - org.apache.http.impl.execchain.MainClientExec.execute 255 - Executing request POST /api/Sra/LogMessage HTTP/1.1
+2016-07-25 13:39:13,705 DEBUG [main] - org.apache.http.impl.execchain.MainClientExec.execute 260 - Target auth state: UNCHALLENGED
+2016-07-25 13:39:13,707 DEBUG [main] - org.apache.http.impl.execchain.MainClientExec.execute 266 - Proxy auth state: UNCHALLENGED
+2016-07-25 13:39:13,712 DEBUG [main] - org.apache.http.headers.onRequestSubmitted 135 - http-outgoing-0 >> POST /api/Sra/LogMessage HTTP/1.1
+2016-07-25 13:39:13,713 DEBUG [main] - org.apache.http.headers.onRequestSubmitted 138 - http-outgoing-0 >> Content-Length: 155
+2016-07-25 13:39:13,713 DEBUG [main] - org.apache.http.headers.onRequestSubmitted 138 - http-outgoing-0 >> Content-Type: application/x-www-form-urlencoded; charset=UTF-8
+2016-07-25 13:39:13,714 DEBUG [main] - org.apache.http.headers.onRequestSubmitted 138 - http-outgoing-0 >> Host: 192.168.145.206:8033
+2016-07-25 13:39:13,719 DEBUG [main] - org.apache.http.headers.onRequestSubmitted 138 - http-outgoing-0 >> Connection: Keep-Alive
+2016-07-25 13:39:13,720 DEBUG [main] - org.apache.http.headers.onRequestSubmitted 138 - http-outgoing-0 >> User-Agent: Apache-HttpClient/4.5.2 (Java/1.8.0_77)
+2016-07-25 13:39:13,720 DEBUG [main] - org.apache.http.headers.onRequestSubmitted 138 - http-outgoing-0 >> Accept-Encoding: gzip,deflate
+2016-07-25 13:39:13,722 DEBUG [main] - org.apache.http.wire.wire 72 - http-outgoing-0 >> "POST /api/Sra/LogMessage HTTP/1.1[\r][\n]"
+2016-07-25 13:39:13,723 DEBUG [main] - org.apache.http.wire.wire 72 - http-outgoing-0 >> "Content-Length: 155[\r][\n]"
+2016-07-25 13:39:13,723 DEBUG [main] - org.apache.http.wire.wire 72 - http-outgoing-0 >> "Content-Type: application/x-www-form-urlencoded; charset=UTF-8[\r][\n]"
+2016-07-25 13:39:13,724 DEBUG [main] - org.apache.http.wire.wire 72 - http-outgoing-0 >> "Host: 192.168.145.206:8033[\r][\n]"
+2016-07-25 13:39:13,725 DEBUG [main] - org.apache.http.wire.wire 72 - http-outgoing-0 >> "Connection: Keep-Alive[\r][\n]"
+2016-07-25 13:39:13,726 DEBUG [main] - org.apache.http.wire.wire 72 - http-outgoing-0 >> "User-Agent: Apache-HttpClient/4.5.2 (Java/1.8.0_77)[\r][\n]"
+2016-07-25 13:39:13,726 DEBUG [main] - org.apache.http.wire.wire 72 - http-outgoing-0 >> "Accept-Encoding: gzip,deflate[\r][\n]"
+2016-07-25 13:39:13,727 DEBUG [main] - org.apache.http.wire.wire 72 - http-outgoing-0 >> "[\r][\n]"
+2016-07-25 13:39:13,728 DEBUG [main] - org.apache.http.wire.wire 86 - http-outgoing-0 >> "Importance=0&Site=AlexanderLogistics&System=postfix&Time=13%3A39%3A13&Workstation=&Level&Message=The+length+of+the+message+queue+is+%3A+null&ExceptionText="
+2016-07-25 13:39:13,748 DEBUG [main] - org.apache.http.wire.wire 72 - http-outgoing-0 << "HTTP/1.1 200 OK[\r][\n]"
+2016-07-25 13:39:13,748 DEBUG [main] - org.apache.http.wire.wire 72 - http-outgoing-0 << "Cache-Control: no-cache[\r][\n]"
+2016-07-25 13:39:13,749 DEBUG [main] - org.apache.http.wire.wire 72 - http-outgoing-0 << "Pragma: no-cache[\r][\n]"
+2016-07-25 13:39:13,749 DEBUG [main] - org.apache.http.wire.wire 72 - http-outgoing-0 << "Content-Type: application/json; charset=utf-8[\r][\n]"
+2016-07-25 13:39:13,750 DEBUG [main] - org.apache.http.wire.wire 72 - http-outgoing-0 << "Content-Encoding: gzip[\r][\n]"
+2016-07-25 13:39:13,750 DEBUG [main] - org.apache.http.wire.wire 72 - http-outgoing-0 << "Expires: -1[\r][\n]"
+2016-07-25 13:39:13,751 DEBUG [main] - org.apache.http.wire.wire 72 - http-outgoing-0 << "Vary: Accept-Encoding[\r][\n]"
+2016-07-25 13:39:13,751 DEBUG [main] - org.apache.http.wire.wire 72 - http-outgoing-0 << "Server: Microsoft-IIS/8.0[\r][\n]"
+2016-07-25 13:39:13,752 DEBUG [main] - org.apache.http.wire.wire 72 - http-outgoing-0 << "X-AspNet-Version: 4.0.30319[\r][\n]"
+2016-07-25 13:39:13,752 DEBUG [main] - org.apache.http.wire.wire 72 - http-outgoing-0 << "X-Powered-By: ASP.NET[\r][\n]"
+2016-07-25 13:39:13,753 DEBUG [main] - org.apache.http.wire.wire 72 - http-outgoing-0 << "Date: Mon, 25 Jul 2016 10:39:15 GMT[\r][\n]"
+2016-07-25 13:39:13,754 DEBUG [main] - org.apache.http.wire.wire 72 - http-outgoing-0 << "Content-Length: 124[\r][\n]"
+2016-07-25 13:39:13,754 DEBUG [main] - org.apache.http.wire.wire 72 - http-outgoing-0 << "[\r][\n]"
+2016-07-25 13:39:13,761 DEBUG [main] - org.apache.http.headers.onResponseReceived 124 - http-outgoing-0 << HTTP/1.1 200 OK
+2016-07-25 13:39:13,762 DEBUG [main] - org.apache.http.headers.onResponseReceived 127 - http-outgoing-0 << Cache-Control: no-cache
+2016-07-25 13:39:13,762 DEBUG [main] - org.apache.http.headers.onResponseReceived 127 - http-outgoing-0 << Pragma: no-cache
+2016-07-25 13:39:13,763 DEBUG [main] - org.apache.http.headers.onResponseReceived 127 - http-outgoing-0 << Content-Type: application/json; charset=utf-8
+2016-07-25 13:39:13,763 DEBUG [main] - org.apache.http.headers.onResponseReceived 127 - http-outgoing-0 << Content-Encoding: gzip
+2016-07-25 13:39:13,764 DEBUG [main] - org.apache.http.headers.onResponseReceived 127 - http-outgoing-0 << Expires: -1
+2016-07-25 13:39:13,764 DEBUG [main] - org.apache.http.headers.onResponseReceived 127 - http-outgoing-0 << Vary: Accept-Encoding
+2016-07-25 13:39:13,765 DEBUG [main] - org.apache.http.headers.onResponseReceived 127 - http-outgoing-0 << Server: Microsoft-IIS/8.0
+2016-07-25 13:39:13,765 DEBUG [main] - org.apache.http.headers.onResponseReceived 127 - http-outgoing-0 << X-AspNet-Version: 4.0.30319
+2016-07-25 13:39:13,765 DEBUG [main] - org.apache.http.headers.onResponseReceived 127 - http-outgoing-0 << X-Powered-By: ASP.NET
+2016-07-25 13:39:13,766 DEBUG [main] - org.apache.http.headers.onResponseReceived 127 - http-outgoing-0 << Date: Mon, 25 Jul 2016 10:39:15 GMT
+2016-07-25 13:39:13,766 DEBUG [main] - org.apache.http.headers.onResponseReceived 127 - http-outgoing-0 << Content-Length: 124
+2016-07-25 13:39:13,781 DEBUG [main] - org.apache.http.impl.execchain.MainClientExec.execute 284 - Connection can be kept alive indefinitely
+2016-07-25 13:40:14,546  INFO [main] - myLogger.runCommand 26 - Starting process : mailq.exe
+2016-07-25 13:40:14,550 ERROR [main] - myLogger.runCommand 42 - java.io.IOException: Cannot run program "mailq.exe": CreateProcess error=2, The system cannot find the file specified
+2016-07-25 13:40:14,845  INFO [main] - myLogger.getReqNo 36 - Number of requests is : null
+2016-07-25 13:40:14,845 ERROR [main] - myLogger.checkQueueStatus 32 - java.lang.NumberFormatException: null line 20 in QueueChecker
+2016-07-25 13:40:14,860 DEBUG [main] - org.apache.http.client.protocol.RequestAddCookies.process 122 - CookieSpec selected: default
+2016-07-25 13:40:14,868 DEBUG [main] - org.apache.http.client.protocol.RequestAuthCache.process 76 - Auth cache not set in the context
+2016-07-25 13:40:14,871 DEBUG [main] - org.apache.http.impl.conn.PoolingHttpClientConnectionManager.requestConnection 249 - Connection request: [route: {}->http://192.168.145.206:8033][total kept alive: 0; route allocated: 0 of 2; total allocated: 0 of 20]
+2016-07-25 13:40:14,882 DEBUG [main] - org.apache.http.impl.conn.PoolingHttpClientConnectionManager.leaseConnection 282 - Connection leased: [id: 0][route: {}->http://192.168.145.206:8033][total kept alive: 0; route allocated: 1 of 2; total allocated: 1 of 20]
+2016-07-25 13:40:14,883 DEBUG [main] - org.apache.http.impl.execchain.MainClientExec.execute 234 - Opening connection {}->http://192.168.145.206:8033
+2016-07-25 13:40:14,886 DEBUG [main] - org.apache.http.impl.conn.DefaultHttpClientConnectionOperator.connect 138 - Connecting to /192.168.145.206:8033
+2016-07-25 13:40:14,940 DEBUG [main] - org.apache.http.impl.conn.DefaultHttpClientConnectionOperator.connect 145 - Connection established 192.168.145.136:53464<->192.168.145.206:8033
+2016-07-25 13:40:14,941 DEBUG [main] - org.apache.http.impl.execchain.MainClientExec.execute 255 - Executing request POST /api/Sra/LogMessage HTTP/1.1
+2016-07-25 13:40:14,941 DEBUG [main] - org.apache.http.impl.execchain.MainClientExec.execute 260 - Target auth state: UNCHALLENGED
+2016-07-25 13:40:14,941 DEBUG [main] - org.apache.http.impl.execchain.MainClientExec.execute 266 - Proxy auth state: UNCHALLENGED
+2016-07-25 13:40:14,943 DEBUG [main] - org.apache.http.headers.onRequestSubmitted 135 - http-outgoing-0 >> POST /api/Sra/LogMessage HTTP/1.1
+2016-07-25 13:40:14,944 DEBUG [main] - org.apache.http.headers.onRequestSubmitted 138 - http-outgoing-0 >> Content-Length: 155
+2016-07-25 13:40:14,945 DEBUG [main] - org.apache.http.headers.onRequestSubmitted 138 - http-outgoing-0 >> Content-Type: application/x-www-form-urlencoded; charset=UTF-8
+2016-07-25 13:40:14,945 DEBUG [main] - org.apache.http.headers.onRequestSubmitted 138 - http-outgoing-0 >> Host: 192.168.145.206:8033
+2016-07-25 13:40:14,945 DEBUG [main] - org.apache.http.headers.onRequestSubmitted 138 - http-outgoing-0 >> Connection: Keep-Alive
+2016-07-25 13:40:14,945 DEBUG [main] - org.apache.http.headers.onRequestSubmitted 138 - http-outgoing-0 >> User-Agent: Apache-HttpClient/4.5.2 (Java/1.8.0_77)
+2016-07-25 13:40:14,945 DEBUG [main] - org.apache.http.headers.onRequestSubmitted 138 - http-outgoing-0 >> Accept-Encoding: gzip,deflate
+2016-07-25 13:40:14,945 DEBUG [main] - org.apache.http.wire.wire 72 - http-outgoing-0 >> "POST /api/Sra/LogMessage HTTP/1.1[\r][\n]"
+2016-07-25 13:40:14,946 DEBUG [main] - org.apache.http.wire.wire 72 - http-outgoing-0 >> "Content-Length: 155[\r][\n]"
+2016-07-25 13:40:14,946 DEBUG [main] - org.apache.http.wire.wire 72 - http-outgoing-0 >> "Content-Type: application/x-www-form-urlencoded; charset=UTF-8[\r][\n]"
+2016-07-25 13:40:14,946 DEBUG [main] - org.apache.http.wire.wire 72 - http-outgoing-0 >> "Host: 192.168.145.206:8033[\r][\n]"
+2016-07-25 13:40:14,946 DEBUG [main] - org.apache.http.wire.wire 72 - http-outgoing-0 >> "Connection: Keep-Alive[\r][\n]"
+2016-07-25 13:40:14,947 DEBUG [main] - org.apache.http.wire.wire 72 - http-outgoing-0 >> "User-Agent: Apache-HttpClient/4.5.2 (Java/1.8.0_77)[\r][\n]"
+2016-07-25 13:40:14,947 DEBUG [main] - org.apache.http.wire.wire 72 - http-outgoing-0 >> "Accept-Encoding: gzip,deflate[\r][\n]"
+2016-07-25 13:40:14,947 DEBUG [main] - org.apache.http.wire.wire 72 - http-outgoing-0 >> "[\r][\n]"
+2016-07-25 13:40:14,947 DEBUG [main] - org.apache.http.wire.wire 86 - http-outgoing-0 >> "Importance=0&Site=AlexanderLogistics&System=postfix&Time=13%3A40%3A14&Workstation=&Level&Message=The+length+of+the+message+queue+is+%3A+null&ExceptionText="
+2016-07-25 13:40:14,963 DEBUG [main] - org.apache.http.wire.wire 72 - http-outgoing-0 << "HTTP/1.1 200 OK[\r][\n]"
+2016-07-25 13:40:14,963 DEBUG [main] - org.apache.http.wire.wire 72 - http-outgoing-0 << "Cache-Control: no-cache[\r][\n]"
+2016-07-25 13:40:14,963 DEBUG [main] - org.apache.http.wire.wire 72 - http-outgoing-0 << "Pragma: no-cache[\r][\n]"
+2016-07-25 13:40:14,964 DEBUG [main] - org.apache.http.wire.wire 72 - http-outgoing-0 << "Content-Type: application/json; charset=utf-8[\r][\n]"
+2016-07-25 13:40:14,964 DEBUG [main] - org.apache.http.wire.wire 72 - http-outgoing-0 << "Content-Encoding: gzip[\r][\n]"
+2016-07-25 13:40:14,964 DEBUG [main] - org.apache.http.wire.wire 72 - http-outgoing-0 << "Expires: -1[\r][\n]"
+2016-07-25 13:40:14,964 DEBUG [main] - org.apache.http.wire.wire 72 - http-outgoing-0 << "Vary: Accept-Encoding[\r][\n]"
+2016-07-25 13:40:14,964 DEBUG [main] - org.apache.http.wire.wire 72 - http-outgoing-0 << "Server: Microsoft-IIS/8.0[\r][\n]"
+2016-07-25 13:40:14,965 DEBUG [main] - org.apache.http.wire.wire 72 - http-outgoing-0 << "X-AspNet-Version: 4.0.30319[\r][\n]"
+2016-07-25 13:40:14,965 DEBUG [main] - org.apache.http.wire.wire 72 - http-outgoing-0 << "X-Powered-By: ASP.NET[\r][\n]"
+2016-07-25 13:40:14,965 DEBUG [main] - org.apache.http.wire.wire 72 - http-outgoing-0 << "Date: Mon, 25 Jul 2016 10:40:16 GMT[\r][\n]"
+2016-07-25 13:40:14,965 DEBUG [main] - org.apache.http.wire.wire 72 - http-outgoing-0 << "Content-Length: 124[\r][\n]"
+2016-07-25 13:40:14,965 DEBUG [main] - org.apache.http.wire.wire 72 - http-outgoing-0 << "[\r][\n]"
+2016-07-25 13:40:14,969 DEBUG [main] - org.apache.http.headers.onResponseReceived 124 - http-outgoing-0 << HTTP/1.1 200 OK
+2016-07-25 13:40:14,969 DEBUG [main] - org.apache.http.headers.onResponseReceived 127 - http-outgoing-0 << Cache-Control: no-cache
+2016-07-25 13:40:14,969 DEBUG [main] - org.apache.http.headers.onResponseReceived 127 - http-outgoing-0 << Pragma: no-cache
+2016-07-25 13:40:14,969 DEBUG [main] - org.apache.http.headers.onResponseReceived 127 - http-outgoing-0 << Content-Type: application/json; charset=utf-8
+2016-07-25 13:40:14,970 DEBUG [main] - org.apache.http.headers.onResponseReceived 127 - http-outgoing-0 << Content-Encoding: gzip
+2016-07-25 13:40:14,970 DEBUG [main] - org.apache.http.headers.onResponseReceived 127 - http-outgoing-0 << Expires: -1
+2016-07-25 13:40:14,970 DEBUG [main] - org.apache.http.headers.onResponseReceived 127 - http-outgoing-0 << Vary: Accept-Encoding
+2016-07-25 13:40:14,970 DEBUG [main] - org.apache.http.headers.onResponseReceived 127 - http-outgoing-0 << Server: Microsoft-IIS/8.0
+2016-07-25 13:40:14,970 DEBUG [main] - org.apache.http.headers.onResponseReceived 127 - http-outgoing-0 << X-AspNet-Version: 4.0.30319
+2016-07-25 13:40:14,970 DEBUG [main] - org.apache.http.headers.onResponseReceived 127 - http-outgoing-0 << X-Powered-By: ASP.NET
+2016-07-25 13:40:14,971 DEBUG [main] - org.apache.http.headers.onResponseReceived 127 - http-outgoing-0 << Date: Mon, 25 Jul 2016 10:40:16 GMT
+2016-07-25 13:40:14,971 DEBUG [main] - org.apache.http.headers.onResponseReceived 127 - http-outgoing-0 << Content-Length: 124
+2016-07-25 13:40:14,975 DEBUG [main] - org.apache.http.impl.execchain.MainClientExec.execute 284 - Connection can be kept alive indefinitely
+2016-07-25 13:50:17,244  INFO [main] - myLogger.runCommand 26 - Starting process : mailq.exe
+2016-07-25 13:50:17,248 ERROR [main] - myLogger.runCommand 42 - java.io.IOException: Cannot run program "mailq.exe": CreateProcess error=2, The system cannot find the file specified
+2016-07-25 13:50:17,667  INFO [main] - myLogger.getReqNo 36 - Number of requests is : null
+2016-07-25 13:50:17,667 ERROR [main] - myLogger.checkQueueStatus 32 - java.lang.NumberFormatException: null line 20 in QueueChecker
+2016-07-25 13:50:17,684 DEBUG [main] - org.apache.http.client.protocol.RequestAddCookies.process 122 - CookieSpec selected: default
+2016-07-25 13:50:17,694 DEBUG [main] - org.apache.http.client.protocol.RequestAuthCache.process 76 - Auth cache not set in the context
+2016-07-25 13:50:17,696 DEBUG [main] - org.apache.http.impl.conn.PoolingHttpClientConnectionManager.requestConnection 249 - Connection request: [route: {}->http://192.168.145.206:8033][total kept alive: 0; route allocated: 0 of 2; total allocated: 0 of 20]
+2016-07-25 13:50:17,712 DEBUG [main] - org.apache.http.impl.conn.PoolingHttpClientConnectionManager.leaseConnection 282 - Connection leased: [id: 0][route: {}->http://192.168.145.206:8033][total kept alive: 0; route allocated: 1 of 2; total allocated: 1 of 20]
+2016-07-25 13:50:17,720 DEBUG [main] - org.apache.http.impl.execchain.MainClientExec.execute 234 - Opening connection {}->http://192.168.145.206:8033
+2016-07-25 13:50:17,729 DEBUG [main] - org.apache.http.impl.conn.DefaultHttpClientConnectionOperator.connect 138 - Connecting to /192.168.145.206:8033
+2016-07-25 13:50:17,777 DEBUG [main] - org.apache.http.impl.conn.DefaultHttpClientConnectionOperator.connect 145 - Connection established 192.168.145.136:53546<->192.168.145.206:8033
+2016-07-25 13:50:17,778 DEBUG [main] - org.apache.http.impl.execchain.MainClientExec.execute 255 - Executing request POST /api/Sra/LogMessage HTTP/1.1
+2016-07-25 13:50:17,778 DEBUG [main] - org.apache.http.impl.execchain.MainClientExec.execute 260 - Target auth state: UNCHALLENGED
+2016-07-25 13:50:17,779 DEBUG [main] - org.apache.http.impl.execchain.MainClientExec.execute 266 - Proxy auth state: UNCHALLENGED
+2016-07-25 13:50:17,781 DEBUG [main] - org.apache.http.headers.onRequestSubmitted 135 - http-outgoing-0 >> POST /api/Sra/LogMessage HTTP/1.1
+2016-07-25 13:50:17,781 DEBUG [main] - org.apache.http.headers.onRequestSubmitted 138 - http-outgoing-0 >> Content-Length: 162
+2016-07-25 13:50:17,783 DEBUG [main] - org.apache.http.headers.onRequestSubmitted 138 - http-outgoing-0 >> Content-Type: application/x-www-form-urlencoded; charset=UTF-8
+2016-07-25 13:50:17,783 DEBUG [main] - org.apache.http.headers.onRequestSubmitted 138 - http-outgoing-0 >> Host: 192.168.145.206:8033
+2016-07-25 13:50:17,783 DEBUG [main] - org.apache.http.headers.onRequestSubmitted 138 - http-outgoing-0 >> Connection: Keep-Alive
+2016-07-25 13:50:17,783 DEBUG [main] - org.apache.http.headers.onRequestSubmitted 138 - http-outgoing-0 >> User-Agent: Apache-HttpClient/4.5.2 (Java/1.8.0_77)
+2016-07-25 13:50:17,783 DEBUG [main] - org.apache.http.headers.onRequestSubmitted 138 - http-outgoing-0 >> Accept-Encoding: gzip,deflate
+2016-07-25 13:50:17,784 DEBUG [main] - org.apache.http.wire.wire 72 - http-outgoing-0 >> "POST /api/Sra/LogMessage HTTP/1.1[\r][\n]"
+2016-07-25 13:50:17,784 DEBUG [main] - org.apache.http.wire.wire 72 - http-outgoing-0 >> "Content-Length: 162[\r][\n]"
+2016-07-25 13:50:17,784 DEBUG [main] - org.apache.http.wire.wire 72 - http-outgoing-0 >> "Content-Type: application/x-www-form-urlencoded; charset=UTF-8[\r][\n]"
+2016-07-25 13:50:17,785 DEBUG [main] - org.apache.http.wire.wire 72 - http-outgoing-0 >> "Host: 192.168.145.206:8033[\r][\n]"
+2016-07-25 13:50:17,785 DEBUG [main] - org.apache.http.wire.wire 72 - http-outgoing-0 >> "Connection: Keep-Alive[\r][\n]"
+2016-07-25 13:50:17,785 DEBUG [main] - org.apache.http.wire.wire 72 - http-outgoing-0 >> "User-Agent: Apache-HttpClient/4.5.2 (Java/1.8.0_77)[\r][\n]"
+2016-07-25 13:50:17,785 DEBUG [main] - org.apache.http.wire.wire 72 - http-outgoing-0 >> "Accept-Encoding: gzip,deflate[\r][\n]"
+2016-07-25 13:50:17,785 DEBUG [main] - org.apache.http.wire.wire 72 - http-outgoing-0 >> "[\r][\n]"
+2016-07-25 13:50:17,786 DEBUG [main] - org.apache.http.wire.wire 86 - http-outgoing-0 >> "Importance=0&Site=AlexanderLogistics&System=postfix&Time=13%3A50%3A17&Workstation=&MessageLevel&Message=The+length+of+the+message+queue+is+%3A+null&ExceptionText="
+2016-07-25 13:50:17,814 DEBUG [main] - org.apache.http.wire.wire 72 - http-outgoing-0 << "HTTP/1.1 200 OK[\r][\n]"
+2016-07-25 13:50:17,814 DEBUG [main] - org.apache.http.wire.wire 72 - http-outgoing-0 << "Cache-Control: no-cache[\r][\n]"
+2016-07-25 13:50:17,814 DEBUG [main] - org.apache.http.wire.wire 72 - http-outgoing-0 << "Pragma: no-cache[\r][\n]"
+2016-07-25 13:50:17,814 DEBUG [main] - org.apache.http.wire.wire 72 - http-outgoing-0 << "Content-Type: application/json; charset=utf-8[\r][\n]"
+2016-07-25 13:50:17,815 DEBUG [main] - org.apache.http.wire.wire 72 - http-outgoing-0 << "Content-Encoding: gzip[\r][\n]"
+2016-07-25 13:50:17,815 DEBUG [main] - org.apache.http.wire.wire 72 - http-outgoing-0 << "Expires: -1[\r][\n]"
+2016-07-25 13:50:17,815 DEBUG [main] - org.apache.http.wire.wire 72 - http-outgoing-0 << "Vary: Accept-Encoding[\r][\n]"
+2016-07-25 13:50:17,815 DEBUG [main] - org.apache.http.wire.wire 72 - http-outgoing-0 << "Server: Microsoft-IIS/8.0[\r][\n]"
+2016-07-25 13:50:17,815 DEBUG [main] - org.apache.http.wire.wire 72 - http-outgoing-0 << "X-AspNet-Version: 4.0.30319[\r][\n]"
+2016-07-25 13:50:17,815 DEBUG [main] - org.apache.http.wire.wire 72 - http-outgoing-0 << "X-Powered-By: ASP.NET[\r][\n]"
+2016-07-25 13:50:17,815 DEBUG [main] - org.apache.http.wire.wire 72 - http-outgoing-0 << "Date: Mon, 25 Jul 2016 10:50:19 GMT[\r][\n]"
+2016-07-25 13:50:17,816 DEBUG [main] - org.apache.http.wire.wire 72 - http-outgoing-0 << "Content-Length: 124[\r][\n]"
+2016-07-25 13:50:17,816 DEBUG [main] - org.apache.http.wire.wire 72 - http-outgoing-0 << "[\r][\n]"
+2016-07-25 13:50:17,818 DEBUG [main] - org.apache.http.headers.onResponseReceived 124 - http-outgoing-0 << HTTP/1.1 200 OK
+2016-07-25 13:50:17,818 DEBUG [main] - org.apache.http.headers.onResponseReceived 127 - http-outgoing-0 << Cache-Control: no-cache
+2016-07-25 13:50:17,818 DEBUG [main] - org.apache.http.headers.onResponseReceived 127 - http-outgoing-0 << Pragma: no-cache
+2016-07-25 13:50:17,819 DEBUG [main] - org.apache.http.headers.onResponseReceived 127 - http-outgoing-0 << Content-Type: application/json; charset=utf-8
+2016-07-25 13:50:17,819 DEBUG [main] - org.apache.http.headers.onResponseReceived 127 - http-outgoing-0 << Content-Encoding: gzip
+2016-07-25 13:50:17,819 DEBUG [main] - org.apache.http.headers.onResponseReceived 127 - http-outgoing-0 << Expires: -1
+2016-07-25 13:50:17,819 DEBUG [main] - org.apache.http.headers.onResponseReceived 127 - http-outgoing-0 << Vary: Accept-Encoding
+2016-07-25 13:50:17,819 DEBUG [main] - org.apache.http.headers.onResponseReceived 127 - http-outgoing-0 << Server: Microsoft-IIS/8.0
+2016-07-25 13:50:17,819 DEBUG [main] - org.apache.http.headers.onResponseReceived 127 - http-outgoing-0 << X-AspNet-Version: 4.0.30319
+2016-07-25 13:50:17,819 DEBUG [main] - org.apache.http.headers.onResponseReceived 127 - http-outgoing-0 << X-Powered-By: ASP.NET
+2016-07-25 13:50:17,819 DEBUG [main] - org.apache.http.headers.onResponseReceived 127 - http-outgoing-0 << Date: Mon, 25 Jul 2016 10:50:19 GMT
+2016-07-25 13:50:17,820 DEBUG [main] - org.apache.http.headers.onResponseReceived 127 - http-outgoing-0 << Content-Length: 124
+2016-07-25 13:50:17,824 DEBUG [main] - org.apache.http.impl.execchain.MainClientExec.execute 284 - Connection can be kept alive indefinitely
+2016-07-25 14:01:19,477  INFO [main] - myLogger.getReqNo 33 - Extracting message requests from line : -- 92 Kbytes in 23 Requests.
+2016-07-25 14:01:19,479  INFO [main] - myLogger.getReqNo 36 - Number of requests is : 23
+2016-07-25 14:02:45,481  INFO [main] - myLogger.getReqNo 33 - Extracting message requests from line : -- 92 Kbytes in 23 Requests.
+2016-07-25 14:02:45,483  INFO [main] - myLogger.getReqNo 36 - Number of requests is : 23
+2016-07-25 14:02:45,484  INFO [main] - myLogger.getReqNo 33 - Extracting message requests from line : -- 92 Kbytes in 23 Requests.
+2016-07-25 14:02:45,484  INFO [main] - myLogger.getReqNo 36 - Number of requests is : 23
+2016-07-25 14:02:45,484  INFO [main] - myLogger.checkQueueStatus 28 - ERROR !
+2016-07-25 14:05:39,135  INFO [main] - myLogger.getReqNo 33 - Extracting message requests from line : -- 92 Kbytes in 23 Requests.
+2016-07-25 14:05:39,137  INFO [main] - myLogger.getReqNo 36 - Number of requests is : 23
+2016-07-25 14:05:39,137  INFO [main] - myLogger.getReqNo 33 - Extracting message requests from line : -- 92 Kbytes in 23 Requests.
+2016-07-25 14:05:39,137  INFO [main] - myLogger.getReqNo 36 - Number of requests is : 23
+2016-07-25 14:05:59,288  INFO [main] - myLogger.getReqNo 33 - Extracting message requests from line : -- 92 Kbytes in 23 Requests.
+2016-07-25 14:05:59,291  INFO [main] - myLogger.getReqNo 36 - Number of requests is : 23
+2016-07-25 14:05:59,291  INFO [main] - myLogger.getReqNo 33 - Extracting message requests from line : -- 92 Kbytes in 23 Requests.
+2016-07-25 14:05:59,291  INFO [main] - myLogger.getReqNo 36 - Number of requests is : 23
+2016-07-25 14:07:07,928  INFO [main] - myLogger.getReqNo 33 - Extracting message requests from line : -- 92 Kbytes in 23 Requests.
+2016-07-25 14:07:07,930  INFO [main] - myLogger.getReqNo 36 - Number of requests is : 23
+2016-07-25 14:07:07,930  INFO [main] - myLogger.getReqNo 33 - Extracting message requests from line : -- 92 Kbytes in 23 Requests.
+2016-07-25 14:07:07,930  INFO [main] - myLogger.getReqNo 36 - Number of requests is : 23
+2016-07-25 14:07:19,623  INFO [main] - myLogger.getReqNo 33 - Extracting message requests from line : -- 92 Kbytes in 23 Requests.
+2016-07-25 14:07:19,626  INFO [main] - myLogger.getReqNo 36 - Number of requests is : 23
+2016-07-25 14:07:19,626  INFO [main] - myLogger.getReqNo 33 - Extracting message requests from line : -- 92 Kbytes in 23 Requests.
+2016-07-25 14:07:19,626  INFO [main] - myLogger.getReqNo 36 - Number of requests is : 23
+2016-07-25 14:07:46,013  INFO [main] - myLogger.getReqNo 33 - Extracting message requests from line : -- 92 Kbytes in 23 Requests.
+2016-07-25 14:07:46,017  INFO [main] - myLogger.getReqNo 36 - Number of requests is : 23
+2016-07-25 14:08:27,413  INFO [main] - myLogger.getReqNo 33 - Extracting message requests from line : -- 92 Kbytes in 23 Requests.
+2016-07-25 14:08:27,415  INFO [main] - myLogger.getReqNo 36 - Number of requests is : 23
+2016-07-25 14:09:20,076  INFO [main] - myLogger.getReqNo 33 - Extracting message requests from line : -- 92 Kbytes in 23 Requests.
+2016-07-25 14:09:20,078  INFO [main] - myLogger.getReqNo 36 - Number of requests is : 23
+2016-07-25 14:10:36,473  INFO [main] - myLogger.getReqNo 33 - Extracting message requests from line : -- 92 Kbytes in 23 Requests.
+2016-07-25 14:10:36,476  INFO [main] - myLogger.getReqNo 36 - Number of requests is : 23
+2016-07-25 14:11:17,424  INFO [main] - myLogger.getReqNo 33 - Extracting message requests from line : -- 92 Kbytes in 23 Requests.
+2016-07-25 14:11:17,426  INFO [main] - myLogger.getReqNo 36 - Number of requests is : 23
+2016-07-25 14:14:42,571  INFO [main] - myLogger.getReqNo 33 - Extracting message requests from line : -- 92 Kbytes in 23 Requests.
+2016-07-25 14:14:42,574  INFO [main] - myLogger.getReqNo 36 - Number of requests is : 23
+2016-07-25 14:14:53,001  INFO [main] - myLogger.getReqNo 33 - Extracting message requests from line : -- 92 Kbytes in 23 Requests.
+2016-07-25 14:14:53,003  INFO [main] - myLogger.getReqNo 36 - Number of requests is : 23
+2016-07-25 14:14:53,003  INFO [main] - myLogger.getReqNo 33 - Extracting message requests from line : -- 92 Kbytes in 23 Requests.
+2016-07-25 14:14:53,003  INFO [main] - myLogger.getReqNo 36 - Number of requests is : 23
+2016-07-25 14:15:15,653  INFO [main] - myLogger.getReqNo 33 - Extracting message requests from line : -- 92 Kbytes in 23 Requests.
+2016-07-25 14:15:15,656  INFO [main] - myLogger.getReqNo 36 - Number of requests is : 23
+2016-07-25 14:15:15,656  INFO [main] - myLogger.getReqNo 33 - Extracting message requests from line : -- 92 Kbytes in 23 Requests.
+2016-07-25 14:15:15,656  INFO [main] - myLogger.getReqNo 36 - Number of requests is : 23
+2016-07-25 14:15:56,919  INFO [main] - myLogger.getReqNo 33 - Extracting message requests from line : -- 92 Kbytes in 23 Requests.
+2016-07-25 14:15:56,921  INFO [main] - myLogger.getReqNo 36 - Number of requests is : 23
+2016-07-25 14:15:56,921  INFO [main] - myLogger.getReqNo 33 - Extracting message requests from line : -- 92 Kbytes in 23 Requests.
+2016-07-25 14:15:56,921  INFO [main] - myLogger.getReqNo 36 - Number of requests is : 23
+2016-07-25 14:17:02,514  INFO [main] - myLogger.getReqNo 33 - Extracting message requests from line : -- 92 Kbytes in 23 Requests.
+2016-07-25 14:17:02,518  INFO [main] - myLogger.getReqNo 36 - Number of requests is : 23
+2016-07-25 14:17:36,382  INFO [main] - myLogger.getReqNo 33 - Extracting message requests from line : -- 92 Kbytes in 23 Requests.
+2016-07-25 14:17:36,384  INFO [main] - myLogger.getReqNo 36 - Number of requests is : 23
+2016-07-25 14:17:36,384  INFO [main] - myLogger.getReqNo 33 - Extracting message requests from line : -- 92 Kbytes in 23 Requests.
+2016-07-25 14:17:36,385  INFO [main] - myLogger.getReqNo 36 - Number of requests is : 23
+2016-07-25 14:17:56,325  INFO [main] - myLogger.getReqNo 33 - Extracting message requests from line : -- 92 Kbytes in 23 Requests.
+2016-07-25 14:17:56,327  INFO [main] - myLogger.getReqNo 36 - Number of requests is : 23
+2016-07-25 14:17:59,414  INFO [main] - myLogger.getReqNo 33 - Extracting message requests from line : -- 92 Kbytes in 23 Requests.
+2016-07-25 14:17:59,417  INFO [main] - myLogger.getReqNo 36 - Number of requests is : 23
+2016-07-25 14:18:10,107  INFO [main] - myLogger.getReqNo 33 - Extracting message requests from line : -- 92 Kbytes in 23 Requests.
+2016-07-25 14:18:10,109  INFO [main] - myLogger.getReqNo 36 - Number of requests is : 23
+2016-07-25 14:18:10,110  INFO [main] - myLogger.getReqNo 33 - Extracting message requests from line : -- 92 Kbytes in 23 Requests.
+2016-07-25 14:18:10,110  INFO [main] - myLogger.getReqNo 36 - Number of requests is : 23
+2016-07-25 14:19:08,288  INFO [main] - myLogger.getReqNo 33 - Extracting message requests from line : -- 92 Kbytes in 23 Requests.
+2016-07-25 14:19:08,290  INFO [main] - myLogger.getReqNo 36 - Number of requests is : 23
+2016-07-25 14:19:08,290  INFO [main] - myLogger.getReqNo 33 - Extracting message requests from line : -- 92 Kbytes in 23 Requests.
+2016-07-25 14:19:08,290  INFO [main] - myLogger.getReqNo 36 - Number of requests is : 23
+2016-07-25 14:23:36,119  INFO [main] - myLogger.getReqNo 36 - Number of requests is : null
+2016-07-25 14:37:57,786  INFO [main] - myLogger.checkQueueStatus 27 - The length of the message queue is : 5
+2016-07-25 14:38:07,487  INFO [main] - myLogger.checkQueueStatus 31 - The length of the message queue is : 12
+2016-07-25 14:44:03,410  INFO [main] - myLogger.getReqNo 36 - Number of requests is : null
+2016-07-25 14:45:08,988  INFO [main] - myLogger.getReqNo 36 - Number of requests is : null
+2016-07-25 14:46:14,133  INFO [main] - myLogger.getReqNo 36 - Number of requests is : null
+2016-07-25 14:47:04,860  INFO [main] - myLogger.getReqNo 36 - Number of requests is : null
+2016-07-25 14:47:08,381  INFO [main] - myLogger.getReqNo 36 - Number of requests is : null
+2016-07-25 14:48:31,102  INFO [main] - myLogger.getReqNo 36 - Number of requests is : null
+2016-07-25 14:49:04,723  INFO [main] - myLogger.runCommand 28 - Starting process : mailq.exe
+2016-07-25 14:49:04,727 ERROR [main] - myLogger.runCommand 44 - java.io.IOException: Cannot run program "mailq.exe": CreateProcess error=2, The system cannot find the file specified
+2016-07-25 14:49:04,728  INFO [main] - myLogger.getReqNo 33 - Extracting message requests from line : -- 92 Kbytes in 23 Requests.
+2016-07-25 14:49:04,728  INFO [main] - myLogger.getReqNo 36 - Number of requests is : 23
+2016-07-25 14:57:37,533  INFO [main] - myLogger.runCommand 25 - Starting process : mailq.exe
+2016-07-25 14:57:37,538 ERROR [main] - myLogger.runCommand 40 - java.io.IOException: Cannot run program "mailq.exe": CreateProcess error=2, The system cannot find the file specified
+2016-07-25 14:57:37,899  INFO [main] - myLogger.getReqNo 36 - Number of requests is : null
+2016-07-25 14:57:53,526  INFO [main] - myLogger.runCommand 25 - Starting process : mailq.exe
+2016-07-25 14:57:53,530 ERROR [main] - myLogger.runCommand 40 - java.io.IOException: Cannot run program "mailq.exe": CreateProcess error=2, The system cannot find the file specified
+2016-07-25 14:57:53,875  INFO [main] - myLogger.getReqNo 36 - Number of requests is : null
+2016-07-25 14:58:19,375  INFO [main] - myLogger.runCommand 25 - Starting process : mailq.exe
+2016-07-25 14:58:19,379 ERROR [main] - myLogger.runCommand 40 - java.io.IOException: Cannot run program "mailq.exe": CreateProcess error=2, The system cannot find the file specified
+2016-07-25 14:58:19,729  INFO [main] - myLogger.getReqNo 36 - Number of requests is : null
+2016-07-25 14:59:00,022  INFO [main] - myLogger.checkQueueStatus 31 - The length of the message queue is : 12
+2016-07-25 14:59:17,229  INFO [main] - myLogger.checkQueueStatus 31 - The length of the message queue is : 12
+2016-07-25 15:02:05,561  INFO [main] - myLogger.runCommand 25 - Starting process : mailq.exe
+2016-07-25 15:02:05,564 ERROR [main] - myLogger.runCommand 40 - java.io.IOException: Cannot run program "mailq.exe": CreateProcess error=2, The system cannot find the file specified
+2016-07-25 15:02:05,891  INFO [main] - myLogger.getReqNo 36 - Number of requests is : null
+2016-07-25 15:06:40,779  INFO [main] - myLogger.runCommand 25 - Starting process : mailq.exe
+2016-07-25 15:06:40,782 ERROR [main] - myLogger.runCommand 40 - java.io.IOException: Cannot run program "mailq.exe": CreateProcess error=2, The system cannot find the file specified
+2016-07-25 15:06:41,104  INFO [main] - myLogger.getReqNo 36 - Number of requests is : null
+2016-07-25 15:06:42,579  INFO [main] - myLogger.runCommand 25 - Starting process : mailq.exe
+2016-07-25 15:06:42,582 ERROR [main] - myLogger.runCommand 40 - java.io.IOException: Cannot run program "mailq.exe": CreateProcess error=2, The system cannot find the file specified
+2016-07-25 15:06:42,913  INFO [main] - myLogger.getReqNo 36 - Number of requests is : null
+2016-07-26 09:25:17,706  INFO [main] - myLogger.runCommand 25 - Starting process : mailq.exe
+2016-07-26 09:25:17,710 ERROR [main] - myLogger.runCommand 40 - java.io.IOException: Cannot run program "mailq.exe": CreateProcess error=2, The system cannot find the file specified
+2016-07-26 09:25:18,013  INFO [main] - myLogger.getReqNo 36 - Number of requests is : null
+2016-07-26 12:43:58,790  INFO [main] - myLogger.getReqNo 36 - Number of requests is : null
+2016-07-26 12:44:30,506  INFO [main] - myLogger.runCommand 25 - Starting process : mailq.exe
+2016-07-26 12:44:30,544 ERROR [main] - myLogger.runCommand 40 - java.io.IOException: Cannot run program "mailq.exe": CreateProcess error=2, The system cannot find the file specified
+2016-07-26 12:44:33,928  INFO [main] - myLogger.getReqNo 36 - Number of requests is : null

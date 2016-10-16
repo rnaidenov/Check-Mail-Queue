@@ -1,0 +1,7 @@
+warningBound=5
+errorBound=10
+importance=0
+site=AlexanderLogistics
+system=postfix
+nLoggerWebServiceUri=http://192.168.145.206:8033/api/Sra/LogMessage
+mailqCommand=mailq.exe

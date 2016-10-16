@@ -1,0 +1,2 @@
+2016-10-03 11:17:01,573  INFO [main] - myLogger.runCommand 26 - Starting process : mailq.exe
+2016-10-03 11:17:01,578 ERROR [main] - myLogger.runCommand 41 - java.io.IOException: Cannot run program "mailq.exe": CreateProcess error=2, The system cannot find the file specified

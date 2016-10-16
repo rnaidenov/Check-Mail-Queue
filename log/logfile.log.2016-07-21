@@ -1,0 +1,727 @@
+2016-07-21 10:30:22,219  INFO [main] - AMAZING LOGGER.runCommand 22 - Starting process : mailq.exe
+2016-07-21 10:30:22,525  INFO [main] - AMAZING LOGGER.getReqNo 35 - Number of requests is : null
+2016-07-21 10:30:22,525  INFO [main] - AMAZING LOGGER.getReqNo 35 - Number of requests is : null
+2016-07-21 10:31:08,265  INFO [main] - AMAZING LOGGER.runCommand 22 - Starting process : mailq.exe
+2016-07-21 10:31:08,612  INFO [main] - AMAZING LOGGER.getReqNo 35 - Number of requests is : null
+2016-07-21 10:31:08,612  INFO [main] - AMAZING LOGGER.getReqNo 35 - Number of requests is : null
+2016-07-21 10:31:37,887  INFO [main] - AMAZING LOGGER.runCommand 22 - Starting process : mailq.exe
+2016-07-21 10:31:38,243  INFO [main] - AMAZING LOGGER.getReqNo 35 - Number of requests is : null
+2016-07-21 10:31:38,243  INFO [main] - AMAZING LOGGER.getReqNo 35 - Number of requests is : null
+2016-07-21 10:31:57,395  INFO [main] - AMAZING LOGGER.runCommand 22 - Starting process : mailq.exe
+2016-07-21 10:31:57,722  INFO [main] - AMAZING LOGGER.getReqNo 35 - Number of requests is : null
+2016-07-21 10:31:57,722  INFO [main] - AMAZING LOGGER.getReqNo 35 - Number of requests is : null
+2016-07-21 10:32:10,764  INFO [main] - AMAZING LOGGER.runCommand 22 - Starting process : mailq.exe
+2016-07-21 10:32:11,098  INFO [main] - AMAZING LOGGER.getReqNo 35 - Number of requests is : null
+2016-07-21 10:32:11,099  INFO [main] - AMAZING LOGGER.getReqNo 35 - Number of requests is : null
+2016-07-21 10:32:29,650  INFO [main] - AMAZING LOGGER.runCommand 22 - Starting process : mailq.exe
+2016-07-21 10:32:29,996  INFO [main] - AMAZING LOGGER.getReqNo 35 - Number of requests is : null
+2016-07-21 10:32:29,997  INFO [main] - AMAZING LOGGER.getReqNo 35 - Number of requests is : null
+2016-07-21 10:37:30,526  INFO [main] - AMAZING LOGGER.runCommand 22 - Starting process : mailq.exe
+2016-07-21 10:37:30,873  INFO [main] - AMAZING LOGGER.getReqNo 35 - Number of requests is : null
+2016-07-21 10:37:30,873  INFO [main] - AMAZING LOGGER.getReqNo 35 - Number of requests is : null
+2016-07-21 10:42:58,600  INFO [main] - AMAZING LOGGER.runCommand 22 - Starting process : mailq.exe
+2016-07-21 10:42:58,904  INFO [main] - AMAZING LOGGER.getReqNo 35 - Number of requests is : null
+2016-07-21 10:42:58,904  INFO [main] - AMAZING LOGGER.getReqNo 35 - Number of requests is : null
+2016-07-21 10:43:53,394  INFO [main] - AMAZING LOGGER.runCommand 22 - Starting process : mailq.exe
+2016-07-21 10:43:53,747  INFO [main] - AMAZING LOGGER.getReqNo 35 - Number of requests is : null
+2016-07-21 10:43:53,747  INFO [main] - AMAZING LOGGER.getReqNo 35 - Number of requests is : null
+2016-07-21 10:44:08,932  INFO [main] - AMAZING LOGGER.runCommand 22 - Starting process : mailq.exe
+2016-07-21 10:44:09,278  INFO [main] - AMAZING LOGGER.getReqNo 35 - Number of requests is : null
+2016-07-21 10:44:09,279  INFO [main] - AMAZING LOGGER.getReqNo 35 - Number of requests is : null
+2016-07-21 10:44:27,570  INFO [main] - AMAZING LOGGER.runCommand 22 - Starting process : mailq.exe
+2016-07-21 10:44:27,915  INFO [main] - AMAZING LOGGER.getReqNo 35 - Number of requests is : null
+2016-07-21 10:44:27,915  INFO [main] - AMAZING LOGGER.getReqNo 35 - Number of requests is : null
+2016-07-21 10:44:49,204  INFO [main] - AMAZING LOGGER.runCommand 22 - Starting process : mailq.exe
+2016-07-21 10:44:49,533  INFO [main] - AMAZING LOGGER.getReqNo 35 - Number of requests is : null
+2016-07-21 10:44:49,533  INFO [main] - AMAZING LOGGER.getReqNo 35 - Number of requests is : null
+2016-07-21 10:45:17,467  INFO [main] - AMAZING LOGGER.runCommand 22 - Starting process : mailq.exe
+2016-07-21 10:45:17,812  INFO [main] - AMAZING LOGGER.getReqNo 35 - Number of requests is : null
+2016-07-21 10:45:17,813  INFO [main] - AMAZING LOGGER.getReqNo 35 - Number of requests is : null
+2016-07-21 10:45:25,688  INFO [main] - AMAZING LOGGER.runCommand 22 - Starting process : mailq.exe
+2016-07-21 10:45:26,029  INFO [main] - AMAZING LOGGER.getReqNo 35 - Number of requests is : null
+2016-07-21 10:45:26,030  INFO [main] - AMAZING LOGGER.getReqNo 35 - Number of requests is : null
+2016-07-21 10:52:24,472  INFO [main] - AMAZING LOGGER.runCommand 22 - Starting process : mailq.exe
+2016-07-21 10:52:24,837  INFO [main] - AMAZING LOGGER.getReqNo 35 - Number of requests is : null
+2016-07-21 10:52:24,837  INFO [main] - AMAZING LOGGER.getReqNo 35 - Number of requests is : null
+2016-07-21 10:53:49,722  INFO [main] - AMAZING LOGGER.runCommand 22 - Starting process : mailq.exe
+2016-07-21 10:53:49,725 ERROR [main] - AMAZING LOGGER.runCommand 38 - java.io.IOException: Cannot run program "mailq.exe": CreateProcess error=2, The system cannot find the file specified
+2016-07-21 10:53:50,067  INFO [main] - AMAZING LOGGER.getReqNo 35 - Number of requests is : null
+2016-07-21 10:53:50,067  INFO [main] - AMAZING LOGGER.getReqNo 35 - Number of requests is : null
+2016-07-21 10:54:10,570  INFO [main] - AMAZING LOGGER.runCommand 22 - Starting process : mailq.exe
+2016-07-21 10:54:10,573 ERROR [main] - AMAZING LOGGER.runCommand 38 - java.io.IOException: Cannot run program "mailq.exe": CreateProcess error=2, The system cannot find the file specified
+2016-07-21 10:54:10,871  INFO [main] - AMAZING LOGGER.getReqNo 35 - Number of requests is : null
+2016-07-21 10:54:10,871  INFO [main] - AMAZING LOGGER.getReqNo 35 - Number of requests is : null
+2016-07-21 12:05:40,915  INFO [main] - myLogger.runCommand 25 - Starting process : mailq.exe
+2016-07-21 12:05:40,919 ERROR [main] - myLogger.runCommand 41 - java.io.IOException: Cannot run program "mailq.exe": CreateProcess error=2, The system cannot find the file specified
+2016-07-21 12:05:41,209  INFO [main] - myLogger.getReqNo 35 - Number of requests is : null
+2016-07-21 12:05:41,209  INFO [main] - myLogger.getReqNo 35 - Number of requests is : null
+2016-07-21 13:01:59,267 ERROR [main] - myLogger.<init> 21 - java.io.FileNotFoundException: resources\config.txt (The system cannot find the file specified)
+2016-07-21 13:03:44,785  INFO [main] - myLogger.getReqNo 36 - Number of requests is : null
+2016-07-21 13:05:19,517  INFO [main] - myLogger.getReqNo 36 - Number of requests is : null
+2016-07-21 13:07:14,515  INFO [main] - myLogger.getReqNo 36 - Number of requests is : null
+2016-07-21 13:07:20,848  INFO [main] - myLogger.getReqNo 36 - Number of requests is : null
+2016-07-21 13:08:53,723  INFO [main] - myLogger.getReqNo 36 - Number of requests is : null
+2016-07-21 13:08:53,725 ERROR [main] - myLogger.checkQueueStatus 32 - java.lang.NumberFormatException: null
+2016-07-21 13:08:53,741 DEBUG [main] - org.apache.http.client.protocol.RequestAddCookies.process 122 - CookieSpec selected: default
+2016-07-21 13:08:53,752 DEBUG [main] - org.apache.http.client.protocol.RequestAuthCache.process 76 - Auth cache not set in the context
+2016-07-21 13:08:53,755 DEBUG [main] - org.apache.http.impl.conn.PoolingHttpClientConnectionManager.requestConnection 249 - Connection request: [route: {}->http://192.168.145.206:8033][total kept alive: 0; route allocated: 0 of 2; total allocated: 0 of 20]
+2016-07-21 13:08:53,768 DEBUG [main] - org.apache.http.impl.conn.PoolingHttpClientConnectionManager.leaseConnection 282 - Connection leased: [id: 0][route: {}->http://192.168.145.206:8033][total kept alive: 0; route allocated: 1 of 2; total allocated: 1 of 20]
+2016-07-21 13:08:53,770 DEBUG [main] - org.apache.http.impl.execchain.MainClientExec.execute 234 - Opening connection {}->http://192.168.145.206:8033
+2016-07-21 13:08:53,774 DEBUG [main] - org.apache.http.impl.conn.DefaultHttpClientConnectionOperator.connect 138 - Connecting to /192.168.145.206:8033
+2016-07-21 13:08:53,846 DEBUG [main] - org.apache.http.impl.conn.DefaultHttpClientConnectionOperator.connect 145 - Connection established 192.168.145.136:52076<->192.168.145.206:8033
+2016-07-21 13:08:53,846 DEBUG [main] - org.apache.http.impl.execchain.MainClientExec.execute 255 - Executing request POST /api/Sra/LogMessage HTTP/1.1
+2016-07-21 13:08:53,846 DEBUG [main] - org.apache.http.impl.execchain.MainClientExec.execute 260 - Target auth state: UNCHALLENGED
+2016-07-21 13:08:53,847 DEBUG [main] - org.apache.http.impl.execchain.MainClientExec.execute 266 - Proxy auth state: UNCHALLENGED
+2016-07-21 13:08:53,850 DEBUG [main] - org.apache.http.headers.onRequestSubmitted 135 - http-outgoing-0 >> POST /api/Sra/LogMessage HTTP/1.1
+2016-07-21 13:08:53,850 DEBUG [main] - org.apache.http.headers.onRequestSubmitted 138 - http-outgoing-0 >> Content-Length: 155
+2016-07-21 13:08:53,850 DEBUG [main] - org.apache.http.headers.onRequestSubmitted 138 - http-outgoing-0 >> Content-Type: application/x-www-form-urlencoded; charset=UTF-8
+2016-07-21 13:08:53,850 DEBUG [main] - org.apache.http.headers.onRequestSubmitted 138 - http-outgoing-0 >> Host: 192.168.145.206:8033
+2016-07-21 13:08:53,852 DEBUG [main] - org.apache.http.headers.onRequestSubmitted 138 - http-outgoing-0 >> Connection: Keep-Alive
+2016-07-21 13:08:53,852 DEBUG [main] - org.apache.http.headers.onRequestSubmitted 138 - http-outgoing-0 >> User-Agent: Apache-HttpClient/4.5.2 (Java/1.8.0_77)
+2016-07-21 13:08:53,852 DEBUG [main] - org.apache.http.headers.onRequestSubmitted 138 - http-outgoing-0 >> Accept-Encoding: gzip,deflate
+2016-07-21 13:08:53,853 DEBUG [main] - org.apache.http.wire.wire 72 - http-outgoing-0 >> "POST /api/Sra/LogMessage HTTP/1.1[\r][\n]"
+2016-07-21 13:08:53,853 DEBUG [main] - org.apache.http.wire.wire 72 - http-outgoing-0 >> "Content-Length: 155[\r][\n]"
+2016-07-21 13:08:53,853 DEBUG [main] - org.apache.http.wire.wire 72 - http-outgoing-0 >> "Content-Type: application/x-www-form-urlencoded; charset=UTF-8[\r][\n]"
+2016-07-21 13:08:53,854 DEBUG [main] - org.apache.http.wire.wire 72 - http-outgoing-0 >> "Host: 192.168.145.206:8033[\r][\n]"
+2016-07-21 13:08:53,854 DEBUG [main] - org.apache.http.wire.wire 72 - http-outgoing-0 >> "Connection: Keep-Alive[\r][\n]"
+2016-07-21 13:08:53,854 DEBUG [main] - org.apache.http.wire.wire 72 - http-outgoing-0 >> "User-Agent: Apache-HttpClient/4.5.2 (Java/1.8.0_77)[\r][\n]"
+2016-07-21 13:08:53,854 DEBUG [main] - org.apache.http.wire.wire 72 - http-outgoing-0 >> "Accept-Encoding: gzip,deflate[\r][\n]"
+2016-07-21 13:08:53,854 DEBUG [main] - org.apache.http.wire.wire 72 - http-outgoing-0 >> "[\r][\n]"
+2016-07-21 13:08:53,855 DEBUG [main] - org.apache.http.wire.wire 86 - http-outgoing-0 >> "Importance=0&Site=AlexanderLogistics&System=postfix&Time=13%3A08%3A53&Workstation=&Level&Message=The+length+of+the+message+queue+is+%3A+null&ExceptionText="
+2016-07-21 13:08:59,080 DEBUG [main] - org.apache.http.wire.wire 72 - http-outgoing-0 << "HTTP/1.1 200 OK[\r][\n]"
+2016-07-21 13:08:59,080 DEBUG [main] - org.apache.http.wire.wire 72 - http-outgoing-0 << "Cache-Control: no-cache[\r][\n]"
+2016-07-21 13:08:59,080 DEBUG [main] - org.apache.http.wire.wire 72 - http-outgoing-0 << "Pragma: no-cache[\r][\n]"
+2016-07-21 13:08:59,080 DEBUG [main] - org.apache.http.wire.wire 72 - http-outgoing-0 << "Content-Type: application/json; charset=utf-8[\r][\n]"
+2016-07-21 13:08:59,081 DEBUG [main] - org.apache.http.wire.wire 72 - http-outgoing-0 << "Content-Encoding: gzip[\r][\n]"
+2016-07-21 13:08:59,081 DEBUG [main] - org.apache.http.wire.wire 72 - http-outgoing-0 << "Expires: -1[\r][\n]"
+2016-07-21 13:08:59,081 DEBUG [main] - org.apache.http.wire.wire 72 - http-outgoing-0 << "Vary: Accept-Encoding[\r][\n]"
+2016-07-21 13:08:59,081 DEBUG [main] - org.apache.http.wire.wire 72 - http-outgoing-0 << "Server: Microsoft-IIS/8.0[\r][\n]"
+2016-07-21 13:08:59,081 DEBUG [main] - org.apache.http.wire.wire 72 - http-outgoing-0 << "X-AspNet-Version: 4.0.30319[\r][\n]"
+2016-07-21 13:08:59,081 DEBUG [main] - org.apache.http.wire.wire 72 - http-outgoing-0 << "X-Powered-By: ASP.NET[\r][\n]"
+2016-07-21 13:08:59,081 DEBUG [main] - org.apache.http.wire.wire 72 - http-outgoing-0 << "Date: Thu, 21 Jul 2016 10:09:03 GMT[\r][\n]"
+2016-07-21 13:08:59,081 DEBUG [main] - org.apache.http.wire.wire 72 - http-outgoing-0 << "Content-Length: 124[\r][\n]"
+2016-07-21 13:08:59,082 DEBUG [main] - org.apache.http.wire.wire 72 - http-outgoing-0 << "[\r][\n]"
+2016-07-21 13:08:59,086 DEBUG [main] - org.apache.http.headers.onResponseReceived 124 - http-outgoing-0 << HTTP/1.1 200 OK
+2016-07-21 13:08:59,086 DEBUG [main] - org.apache.http.headers.onResponseReceived 127 - http-outgoing-0 << Cache-Control: no-cache
+2016-07-21 13:08:59,087 DEBUG [main] - org.apache.http.headers.onResponseReceived 127 - http-outgoing-0 << Pragma: no-cache
+2016-07-21 13:08:59,087 DEBUG [main] - org.apache.http.headers.onResponseReceived 127 - http-outgoing-0 << Content-Type: application/json; charset=utf-8
+2016-07-21 13:08:59,087 DEBUG [main] - org.apache.http.headers.onResponseReceived 127 - http-outgoing-0 << Content-Encoding: gzip
+2016-07-21 13:08:59,087 DEBUG [main] - org.apache.http.headers.onResponseReceived 127 - http-outgoing-0 << Expires: -1
+2016-07-21 13:08:59,087 DEBUG [main] - org.apache.http.headers.onResponseReceived 127 - http-outgoing-0 << Vary: Accept-Encoding
+2016-07-21 13:08:59,087 DEBUG [main] - org.apache.http.headers.onResponseReceived 127 - http-outgoing-0 << Server: Microsoft-IIS/8.0
+2016-07-21 13:08:59,087 DEBUG [main] - org.apache.http.headers.onResponseReceived 127 - http-outgoing-0 << X-AspNet-Version: 4.0.30319
+2016-07-21 13:08:59,087 DEBUG [main] - org.apache.http.headers.onResponseReceived 127 - http-outgoing-0 << X-Powered-By: ASP.NET
+2016-07-21 13:08:59,087 DEBUG [main] - org.apache.http.headers.onResponseReceived 127 - http-outgoing-0 << Date: Thu, 21 Jul 2016 10:09:03 GMT
+2016-07-21 13:08:59,088 DEBUG [main] - org.apache.http.headers.onResponseReceived 127 - http-outgoing-0 << Content-Length: 124
+2016-07-21 13:08:59,094 DEBUG [main] - org.apache.http.impl.execchain.MainClientExec.execute 284 - Connection can be kept alive indefinitely
+2016-07-21 13:09:09,328  INFO [main] - myLogger.getReqNo 36 - Number of requests is : null
+2016-07-21 13:09:09,330 ERROR [main] - myLogger.checkQueueStatus 32 - java.lang.NumberFormatException: null
+2016-07-21 13:09:09,341 DEBUG [main] - org.apache.http.client.protocol.RequestAddCookies.process 122 - CookieSpec selected: default
+2016-07-21 13:09:09,350 DEBUG [main] - org.apache.http.client.protocol.RequestAuthCache.process 76 - Auth cache not set in the context
+2016-07-21 13:09:09,353 DEBUG [main] - org.apache.http.impl.conn.PoolingHttpClientConnectionManager.requestConnection 249 - Connection request: [route: {}->http://192.168.145.206:8033][total kept alive: 0; route allocated: 0 of 2; total allocated: 0 of 20]
+2016-07-21 13:09:09,369 DEBUG [main] - org.apache.http.impl.conn.PoolingHttpClientConnectionManager.leaseConnection 282 - Connection leased: [id: 0][route: {}->http://192.168.145.206:8033][total kept alive: 0; route allocated: 1 of 2; total allocated: 1 of 20]
+2016-07-21 13:09:09,371 DEBUG [main] - org.apache.http.impl.execchain.MainClientExec.execute 234 - Opening connection {}->http://192.168.145.206:8033
+2016-07-21 13:09:09,374 DEBUG [main] - org.apache.http.impl.conn.DefaultHttpClientConnectionOperator.connect 138 - Connecting to /192.168.145.206:8033
+2016-07-21 13:09:09,379 DEBUG [main] - org.apache.http.impl.conn.DefaultHttpClientConnectionOperator.connect 145 - Connection established 192.168.145.136:52078<->192.168.145.206:8033
+2016-07-21 13:09:09,380 DEBUG [main] - org.apache.http.impl.execchain.MainClientExec.execute 255 - Executing request POST /api/Sra/LogMessage HTTP/1.1
+2016-07-21 13:09:09,380 DEBUG [main] - org.apache.http.impl.execchain.MainClientExec.execute 260 - Target auth state: UNCHALLENGED
+2016-07-21 13:09:09,380 DEBUG [main] - org.apache.http.impl.execchain.MainClientExec.execute 266 - Proxy auth state: UNCHALLENGED
+2016-07-21 13:09:09,382 DEBUG [main] - org.apache.http.headers.onRequestSubmitted 135 - http-outgoing-0 >> POST /api/Sra/LogMessage HTTP/1.1
+2016-07-21 13:09:09,383 DEBUG [main] - org.apache.http.headers.onRequestSubmitted 138 - http-outgoing-0 >> Content-Length: 155
+2016-07-21 13:09:09,383 DEBUG [main] - org.apache.http.headers.onRequestSubmitted 138 - http-outgoing-0 >> Content-Type: application/x-www-form-urlencoded; charset=UTF-8
+2016-07-21 13:09:09,383 DEBUG [main] - org.apache.http.headers.onRequestSubmitted 138 - http-outgoing-0 >> Host: 192.168.145.206:8033
+2016-07-21 13:09:09,384 DEBUG [main] - org.apache.http.headers.onRequestSubmitted 138 - http-outgoing-0 >> Connection: Keep-Alive
+2016-07-21 13:09:09,385 DEBUG [main] - org.apache.http.headers.onRequestSubmitted 138 - http-outgoing-0 >> User-Agent: Apache-HttpClient/4.5.2 (Java/1.8.0_77)
+2016-07-21 13:09:09,385 DEBUG [main] - org.apache.http.headers.onRequestSubmitted 138 - http-outgoing-0 >> Accept-Encoding: gzip,deflate
+2016-07-21 13:09:09,385 DEBUG [main] - org.apache.http.wire.wire 72 - http-outgoing-0 >> "POST /api/Sra/LogMessage HTTP/1.1[\r][\n]"
+2016-07-21 13:09:09,385 DEBUG [main] - org.apache.http.wire.wire 72 - http-outgoing-0 >> "Content-Length: 155[\r][\n]"
+2016-07-21 13:09:09,386 DEBUG [main] - org.apache.http.wire.wire 72 - http-outgoing-0 >> "Content-Type: application/x-www-form-urlencoded; charset=UTF-8[\r][\n]"
+2016-07-21 13:09:09,386 DEBUG [main] - org.apache.http.wire.wire 72 - http-outgoing-0 >> "Host: 192.168.145.206:8033[\r][\n]"
+2016-07-21 13:09:09,386 DEBUG [main] - org.apache.http.wire.wire 72 - http-outgoing-0 >> "Connection: Keep-Alive[\r][\n]"
+2016-07-21 13:09:09,386 DEBUG [main] - org.apache.http.wire.wire 72 - http-outgoing-0 >> "User-Agent: Apache-HttpClient/4.5.2 (Java/1.8.0_77)[\r][\n]"
+2016-07-21 13:09:09,386 DEBUG [main] - org.apache.http.wire.wire 72 - http-outgoing-0 >> "Accept-Encoding: gzip,deflate[\r][\n]"
+2016-07-21 13:09:09,387 DEBUG [main] - org.apache.http.wire.wire 72 - http-outgoing-0 >> "[\r][\n]"
+2016-07-21 13:09:09,387 DEBUG [main] - org.apache.http.wire.wire 86 - http-outgoing-0 >> "Importance=0&Site=AlexanderLogistics&System=postfix&Time=13%3A09%3A09&Workstation=&Level&Message=The+length+of+the+message+queue+is+%3A+null&ExceptionText="
+2016-07-21 13:09:09,409 DEBUG [main] - org.apache.http.wire.wire 72 - http-outgoing-0 << "HTTP/1.1 200 OK[\r][\n]"
+2016-07-21 13:09:09,409 DEBUG [main] - org.apache.http.wire.wire 72 - http-outgoing-0 << "Cache-Control: no-cache[\r][\n]"
+2016-07-21 13:09:09,409 DEBUG [main] - org.apache.http.wire.wire 72 - http-outgoing-0 << "Pragma: no-cache[\r][\n]"
+2016-07-21 13:09:09,409 DEBUG [main] - org.apache.http.wire.wire 72 - http-outgoing-0 << "Content-Type: application/json; charset=utf-8[\r][\n]"
+2016-07-21 13:09:09,409 DEBUG [main] - org.apache.http.wire.wire 72 - http-outgoing-0 << "Content-Encoding: gzip[\r][\n]"
+2016-07-21 13:09:09,410 DEBUG [main] - org.apache.http.wire.wire 72 - http-outgoing-0 << "Expires: -1[\r][\n]"
+2016-07-21 13:09:09,410 DEBUG [main] - org.apache.http.wire.wire 72 - http-outgoing-0 << "Vary: Accept-Encoding[\r][\n]"
+2016-07-21 13:09:09,410 DEBUG [main] - org.apache.http.wire.wire 72 - http-outgoing-0 << "Server: Microsoft-IIS/8.0[\r][\n]"
+2016-07-21 13:09:09,410 DEBUG [main] - org.apache.http.wire.wire 72 - http-outgoing-0 << "X-AspNet-Version: 4.0.30319[\r][\n]"
+2016-07-21 13:09:09,410 DEBUG [main] - org.apache.http.wire.wire 72 - http-outgoing-0 << "X-Powered-By: ASP.NET[\r][\n]"
+2016-07-21 13:09:09,410 DEBUG [main] - org.apache.http.wire.wire 72 - http-outgoing-0 << "Date: Thu, 21 Jul 2016 10:09:14 GMT[\r][\n]"
+2016-07-21 13:09:09,410 DEBUG [main] - org.apache.http.wire.wire 72 - http-outgoing-0 << "Content-Length: 124[\r][\n]"
+2016-07-21 13:09:09,410 DEBUG [main] - org.apache.http.wire.wire 72 - http-outgoing-0 << "[\r][\n]"
+2016-07-21 13:09:09,413 DEBUG [main] - org.apache.http.headers.onResponseReceived 124 - http-outgoing-0 << HTTP/1.1 200 OK
+2016-07-21 13:09:09,413 DEBUG [main] - org.apache.http.headers.onResponseReceived 127 - http-outgoing-0 << Cache-Control: no-cache
+2016-07-21 13:09:09,413 DEBUG [main] - org.apache.http.headers.onResponseReceived 127 - http-outgoing-0 << Pragma: no-cache
+2016-07-21 13:09:09,413 DEBUG [main] - org.apache.http.headers.onResponseReceived 127 - http-outgoing-0 << Content-Type: application/json; charset=utf-8
+2016-07-21 13:09:09,413 DEBUG [main] - org.apache.http.headers.onResponseReceived 127 - http-outgoing-0 << Content-Encoding: gzip
+2016-07-21 13:09:09,413 DEBUG [main] - org.apache.http.headers.onResponseReceived 127 - http-outgoing-0 << Expires: -1
+2016-07-21 13:09:09,413 DEBUG [main] - org.apache.http.headers.onResponseReceived 127 - http-outgoing-0 << Vary: Accept-Encoding
+2016-07-21 13:09:09,413 DEBUG [main] - org.apache.http.headers.onResponseReceived 127 - http-outgoing-0 << Server: Microsoft-IIS/8.0
+2016-07-21 13:09:09,413 DEBUG [main] - org.apache.http.headers.onResponseReceived 127 - http-outgoing-0 << X-AspNet-Version: 4.0.30319
+2016-07-21 13:09:09,414 DEBUG [main] - org.apache.http.headers.onResponseReceived 127 - http-outgoing-0 << X-Powered-By: ASP.NET
+2016-07-21 13:09:09,414 DEBUG [main] - org.apache.http.headers.onResponseReceived 127 - http-outgoing-0 << Date: Thu, 21 Jul 2016 10:09:14 GMT
+2016-07-21 13:09:09,414 DEBUG [main] - org.apache.http.headers.onResponseReceived 127 - http-outgoing-0 << Content-Length: 124
+2016-07-21 13:09:09,417 DEBUG [main] - org.apache.http.impl.execchain.MainClientExec.execute 284 - Connection can be kept alive indefinitely
+2016-07-21 13:10:04,625  INFO [main] - myLogger.getReqNo 36 - Number of requests is : null
+2016-07-21 13:10:04,628 ERROR [main] - myLogger.checkQueueStatus 32 - null
+2016-07-21 13:10:04,641 DEBUG [main] - org.apache.http.client.protocol.RequestAddCookies.process 122 - CookieSpec selected: default
+2016-07-21 13:10:04,650 DEBUG [main] - org.apache.http.client.protocol.RequestAuthCache.process 76 - Auth cache not set in the context
+2016-07-21 13:10:04,653 DEBUG [main] - org.apache.http.impl.conn.PoolingHttpClientConnectionManager.requestConnection 249 - Connection request: [route: {}->http://192.168.145.206:8033][total kept alive: 0; route allocated: 0 of 2; total allocated: 0 of 20]
+2016-07-21 13:10:04,666 DEBUG [main] - org.apache.http.impl.conn.PoolingHttpClientConnectionManager.leaseConnection 282 - Connection leased: [id: 0][route: {}->http://192.168.145.206:8033][total kept alive: 0; route allocated: 1 of 2; total allocated: 1 of 20]
+2016-07-21 13:10:04,668 DEBUG [main] - org.apache.http.impl.execchain.MainClientExec.execute 234 - Opening connection {}->http://192.168.145.206:8033
+2016-07-21 13:10:04,671 DEBUG [main] - org.apache.http.impl.conn.DefaultHttpClientConnectionOperator.connect 138 - Connecting to /192.168.145.206:8033
+2016-07-21 13:10:04,686 DEBUG [main] - org.apache.http.impl.conn.DefaultHttpClientConnectionOperator.connect 145 - Connection established 192.168.145.136:52088<->192.168.145.206:8033
+2016-07-21 13:10:04,686 DEBUG [main] - org.apache.http.impl.execchain.MainClientExec.execute 255 - Executing request POST /api/Sra/LogMessage HTTP/1.1
+2016-07-21 13:10:04,687 DEBUG [main] - org.apache.http.impl.execchain.MainClientExec.execute 260 - Target auth state: UNCHALLENGED
+2016-07-21 13:10:04,688 DEBUG [main] - org.apache.http.impl.execchain.MainClientExec.execute 266 - Proxy auth state: UNCHALLENGED
+2016-07-21 13:10:04,690 DEBUG [main] - org.apache.http.headers.onRequestSubmitted 135 - http-outgoing-0 >> POST /api/Sra/LogMessage HTTP/1.1
+2016-07-21 13:10:04,691 DEBUG [main] - org.apache.http.headers.onRequestSubmitted 138 - http-outgoing-0 >> Content-Length: 155
+2016-07-21 13:10:04,691 DEBUG [main] - org.apache.http.headers.onRequestSubmitted 138 - http-outgoing-0 >> Content-Type: application/x-www-form-urlencoded; charset=UTF-8
+2016-07-21 13:10:04,691 DEBUG [main] - org.apache.http.headers.onRequestSubmitted 138 - http-outgoing-0 >> Host: 192.168.145.206:8033
+2016-07-21 13:10:04,692 DEBUG [main] - org.apache.http.headers.onRequestSubmitted 138 - http-outgoing-0 >> Connection: Keep-Alive
+2016-07-21 13:10:04,692 DEBUG [main] - org.apache.http.headers.onRequestSubmitted 138 - http-outgoing-0 >> User-Agent: Apache-HttpClient/4.5.2 (Java/1.8.0_77)
+2016-07-21 13:10:04,692 DEBUG [main] - org.apache.http.headers.onRequestSubmitted 138 - http-outgoing-0 >> Accept-Encoding: gzip,deflate
+2016-07-21 13:10:04,693 DEBUG [main] - org.apache.http.wire.wire 72 - http-outgoing-0 >> "POST /api/Sra/LogMessage HTTP/1.1[\r][\n]"
+2016-07-21 13:10:04,693 DEBUG [main] - org.apache.http.wire.wire 72 - http-outgoing-0 >> "Content-Length: 155[\r][\n]"
+2016-07-21 13:10:04,693 DEBUG [main] - org.apache.http.wire.wire 72 - http-outgoing-0 >> "Content-Type: application/x-www-form-urlencoded; charset=UTF-8[\r][\n]"
+2016-07-21 13:10:04,693 DEBUG [main] - org.apache.http.wire.wire 72 - http-outgoing-0 >> "Host: 192.168.145.206:8033[\r][\n]"
+2016-07-21 13:10:04,693 DEBUG [main] - org.apache.http.wire.wire 72 - http-outgoing-0 >> "Connection: Keep-Alive[\r][\n]"
+2016-07-21 13:10:04,693 DEBUG [main] - org.apache.http.wire.wire 72 - http-outgoing-0 >> "User-Agent: Apache-HttpClient/4.5.2 (Java/1.8.0_77)[\r][\n]"
+2016-07-21 13:10:04,693 DEBUG [main] - org.apache.http.wire.wire 72 - http-outgoing-0 >> "Accept-Encoding: gzip,deflate[\r][\n]"
+2016-07-21 13:10:04,694 DEBUG [main] - org.apache.http.wire.wire 72 - http-outgoing-0 >> "[\r][\n]"
+2016-07-21 13:10:04,694 DEBUG [main] - org.apache.http.wire.wire 86 - http-outgoing-0 >> "Importance=0&Site=AlexanderLogistics&System=postfix&Time=13%3A10%3A04&Workstation=&Level&Message=The+length+of+the+message+queue+is+%3A+null&ExceptionText="
+2016-07-21 13:10:04,715 DEBUG [main] - org.apache.http.wire.wire 72 - http-outgoing-0 << "HTTP/1.1 200 OK[\r][\n]"
+2016-07-21 13:10:04,715 DEBUG [main] - org.apache.http.wire.wire 72 - http-outgoing-0 << "Cache-Control: no-cache[\r][\n]"
+2016-07-21 13:10:04,715 DEBUG [main] - org.apache.http.wire.wire 72 - http-outgoing-0 << "Pragma: no-cache[\r][\n]"
+2016-07-21 13:10:04,715 DEBUG [main] - org.apache.http.wire.wire 72 - http-outgoing-0 << "Content-Type: application/json; charset=utf-8[\r][\n]"
+2016-07-21 13:10:04,715 DEBUG [main] - org.apache.http.wire.wire 72 - http-outgoing-0 << "Content-Encoding: gzip[\r][\n]"
+2016-07-21 13:10:04,715 DEBUG [main] - org.apache.http.wire.wire 72 - http-outgoing-0 << "Expires: -1[\r][\n]"
+2016-07-21 13:10:04,716 DEBUG [main] - org.apache.http.wire.wire 72 - http-outgoing-0 << "Vary: Accept-Encoding[\r][\n]"
+2016-07-21 13:10:04,716 DEBUG [main] - org.apache.http.wire.wire 72 - http-outgoing-0 << "Server: Microsoft-IIS/8.0[\r][\n]"
+2016-07-21 13:10:04,716 DEBUG [main] - org.apache.http.wire.wire 72 - http-outgoing-0 << "X-AspNet-Version: 4.0.30319[\r][\n]"
+2016-07-21 13:10:04,716 DEBUG [main] - org.apache.http.wire.wire 72 - http-outgoing-0 << "X-Powered-By: ASP.NET[\r][\n]"
+2016-07-21 13:10:04,716 DEBUG [main] - org.apache.http.wire.wire 72 - http-outgoing-0 << "Date: Thu, 21 Jul 2016 10:10:09 GMT[\r][\n]"
+2016-07-21 13:10:04,716 DEBUG [main] - org.apache.http.wire.wire 72 - http-outgoing-0 << "Content-Length: 124[\r][\n]"
+2016-07-21 13:10:04,716 DEBUG [main] - org.apache.http.wire.wire 72 - http-outgoing-0 << "[\r][\n]"
+2016-07-21 13:10:04,720 DEBUG [main] - org.apache.http.headers.onResponseReceived 124 - http-outgoing-0 << HTTP/1.1 200 OK
+2016-07-21 13:10:04,720 DEBUG [main] - org.apache.http.headers.onResponseReceived 127 - http-outgoing-0 << Cache-Control: no-cache
+2016-07-21 13:10:04,720 DEBUG [main] - org.apache.http.headers.onResponseReceived 127 - http-outgoing-0 << Pragma: no-cache
+2016-07-21 13:10:04,721 DEBUG [main] - org.apache.http.headers.onResponseReceived 127 - http-outgoing-0 << Content-Type: application/json; charset=utf-8
+2016-07-21 13:10:04,721 DEBUG [main] - org.apache.http.headers.onResponseReceived 127 - http-outgoing-0 << Content-Encoding: gzip
+2016-07-21 13:10:04,721 DEBUG [main] - org.apache.http.headers.onResponseReceived 127 - http-outgoing-0 << Expires: -1
+2016-07-21 13:10:04,721 DEBUG [main] - org.apache.http.headers.onResponseReceived 127 - http-outgoing-0 << Vary: Accept-Encoding
+2016-07-21 13:10:04,721 DEBUG [main] - org.apache.http.headers.onResponseReceived 127 - http-outgoing-0 << Server: Microsoft-IIS/8.0
+2016-07-21 13:10:04,721 DEBUG [main] - org.apache.http.headers.onResponseReceived 127 - http-outgoing-0 << X-AspNet-Version: 4.0.30319
+2016-07-21 13:10:04,722 DEBUG [main] - org.apache.http.headers.onResponseReceived 127 - http-outgoing-0 << X-Powered-By: ASP.NET
+2016-07-21 13:10:04,722 DEBUG [main] - org.apache.http.headers.onResponseReceived 127 - http-outgoing-0 << Date: Thu, 21 Jul 2016 10:10:09 GMT
+2016-07-21 13:10:04,722 DEBUG [main] - org.apache.http.headers.onResponseReceived 127 - http-outgoing-0 << Content-Length: 124
+2016-07-21 13:10:04,727 DEBUG [main] - org.apache.http.impl.execchain.MainClientExec.execute 284 - Connection can be kept alive indefinitely
+2016-07-21 13:10:55,125  INFO [main] - myLogger.getReqNo 36 - Number of requests is : null
+2016-07-21 13:14:32,041  INFO [main] - myLogger.getReqNo 36 - Number of requests is : null
+2016-07-21 13:14:32,044 ERROR [main] - myLogger.checkQueueStatus 32 - null
+2016-07-21 13:14:32,065 DEBUG [main] - org.apache.http.client.protocol.RequestAddCookies.process 122 - CookieSpec selected: default
+2016-07-21 13:14:32,079 DEBUG [main] - org.apache.http.client.protocol.RequestAuthCache.process 76 - Auth cache not set in the context
+2016-07-21 13:14:32,083 DEBUG [main] - org.apache.http.impl.conn.PoolingHttpClientConnectionManager.requestConnection 249 - Connection request: [route: {}->http://192.168.145.206:8033][total kept alive: 0; route allocated: 0 of 2; total allocated: 0 of 20]
+2016-07-21 13:14:32,102 DEBUG [main] - org.apache.http.impl.conn.PoolingHttpClientConnectionManager.leaseConnection 282 - Connection leased: [id: 0][route: {}->http://192.168.145.206:8033][total kept alive: 0; route allocated: 1 of 2; total allocated: 1 of 20]
+2016-07-21 13:14:32,104 DEBUG [main] - org.apache.http.impl.execchain.MainClientExec.execute 234 - Opening connection {}->http://192.168.145.206:8033
+2016-07-21 13:14:32,109 DEBUG [main] - org.apache.http.impl.conn.DefaultHttpClientConnectionOperator.connect 138 - Connecting to /192.168.145.206:8033
+2016-07-21 13:14:32,179 DEBUG [main] - org.apache.http.impl.conn.DefaultHttpClientConnectionOperator.connect 145 - Connection established 192.168.145.136:52107<->192.168.145.206:8033
+2016-07-21 13:14:32,179 DEBUG [main] - org.apache.http.impl.execchain.MainClientExec.execute 255 - Executing request POST /api/Sra/LogMessage HTTP/1.1
+2016-07-21 13:14:32,180 DEBUG [main] - org.apache.http.impl.execchain.MainClientExec.execute 260 - Target auth state: UNCHALLENGED
+2016-07-21 13:14:32,180 DEBUG [main] - org.apache.http.impl.execchain.MainClientExec.execute 266 - Proxy auth state: UNCHALLENGED
+2016-07-21 13:14:32,183 DEBUG [main] - org.apache.http.headers.onRequestSubmitted 135 - http-outgoing-0 >> POST /api/Sra/LogMessage HTTP/1.1
+2016-07-21 13:14:32,184 DEBUG [main] - org.apache.http.headers.onRequestSubmitted 138 - http-outgoing-0 >> Content-Length: 155
+2016-07-21 13:14:32,184 DEBUG [main] - org.apache.http.headers.onRequestSubmitted 138 - http-outgoing-0 >> Content-Type: application/x-www-form-urlencoded; charset=UTF-8
+2016-07-21 13:14:32,184 DEBUG [main] - org.apache.http.headers.onRequestSubmitted 138 - http-outgoing-0 >> Host: 192.168.145.206:8033
+2016-07-21 13:14:32,185 DEBUG [main] - org.apache.http.headers.onRequestSubmitted 138 - http-outgoing-0 >> Connection: Keep-Alive
+2016-07-21 13:14:32,185 DEBUG [main] - org.apache.http.headers.onRequestSubmitted 138 - http-outgoing-0 >> User-Agent: Apache-HttpClient/4.5.2 (Java/1.8.0_77)
+2016-07-21 13:14:32,186 DEBUG [main] - org.apache.http.headers.onRequestSubmitted 138 - http-outgoing-0 >> Accept-Encoding: gzip,deflate
+2016-07-21 13:14:32,186 DEBUG [main] - org.apache.http.wire.wire 72 - http-outgoing-0 >> "POST /api/Sra/LogMessage HTTP/1.1[\r][\n]"
+2016-07-21 13:14:32,186 DEBUG [main] - org.apache.http.wire.wire 72 - http-outgoing-0 >> "Content-Length: 155[\r][\n]"
+2016-07-21 13:14:32,186 DEBUG [main] - org.apache.http.wire.wire 72 - http-outgoing-0 >> "Content-Type: application/x-www-form-urlencoded; charset=UTF-8[\r][\n]"
+2016-07-21 13:14:32,186 DEBUG [main] - org.apache.http.wire.wire 72 - http-outgoing-0 >> "Host: 192.168.145.206:8033[\r][\n]"
+2016-07-21 13:14:32,187 DEBUG [main] - org.apache.http.wire.wire 72 - http-outgoing-0 >> "Connection: Keep-Alive[\r][\n]"
+2016-07-21 13:14:32,187 DEBUG [main] - org.apache.http.wire.wire 72 - http-outgoing-0 >> "User-Agent: Apache-HttpClient/4.5.2 (Java/1.8.0_77)[\r][\n]"
+2016-07-21 13:14:32,187 DEBUG [main] - org.apache.http.wire.wire 72 - http-outgoing-0 >> "Accept-Encoding: gzip,deflate[\r][\n]"
+2016-07-21 13:14:32,187 DEBUG [main] - org.apache.http.wire.wire 72 - http-outgoing-0 >> "[\r][\n]"
+2016-07-21 13:14:32,188 DEBUG [main] - org.apache.http.wire.wire 86 - http-outgoing-0 >> "Importance=0&Site=AlexanderLogistics&System=postfix&Time=13%3A14%3A31&Workstation=&Level&Message=The+length+of+the+message+queue+is+%3A+null&ExceptionText="
+2016-07-21 13:14:32,202 DEBUG [main] - org.apache.http.wire.wire 72 - http-outgoing-0 << "HTTP/1.1 200 OK[\r][\n]"
+2016-07-21 13:14:32,202 DEBUG [main] - org.apache.http.wire.wire 72 - http-outgoing-0 << "Cache-Control: no-cache[\r][\n]"
+2016-07-21 13:14:32,203 DEBUG [main] - org.apache.http.wire.wire 72 - http-outgoing-0 << "Pragma: no-cache[\r][\n]"
+2016-07-21 13:14:32,203 DEBUG [main] - org.apache.http.wire.wire 72 - http-outgoing-0 << "Content-Type: application/json; charset=utf-8[\r][\n]"
+2016-07-21 13:14:32,203 DEBUG [main] - org.apache.http.wire.wire 72 - http-outgoing-0 << "Content-Encoding: gzip[\r][\n]"
+2016-07-21 13:14:32,203 DEBUG [main] - org.apache.http.wire.wire 72 - http-outgoing-0 << "Expires: -1[\r][\n]"
+2016-07-21 13:14:32,203 DEBUG [main] - org.apache.http.wire.wire 72 - http-outgoing-0 << "Vary: Accept-Encoding[\r][\n]"
+2016-07-21 13:14:32,203 DEBUG [main] - org.apache.http.wire.wire 72 - http-outgoing-0 << "Server: Microsoft-IIS/8.0[\r][\n]"
+2016-07-21 13:14:32,204 DEBUG [main] - org.apache.http.wire.wire 72 - http-outgoing-0 << "X-AspNet-Version: 4.0.30319[\r][\n]"
+2016-07-21 13:14:32,204 DEBUG [main] - org.apache.http.wire.wire 72 - http-outgoing-0 << "X-Powered-By: ASP.NET[\r][\n]"
+2016-07-21 13:14:32,204 DEBUG [main] - org.apache.http.wire.wire 72 - http-outgoing-0 << "Date: Thu, 21 Jul 2016 10:14:37 GMT[\r][\n]"
+2016-07-21 13:14:32,204 DEBUG [main] - org.apache.http.wire.wire 72 - http-outgoing-0 << "Content-Length: 124[\r][\n]"
+2016-07-21 13:14:32,204 DEBUG [main] - org.apache.http.wire.wire 72 - http-outgoing-0 << "[\r][\n]"
+2016-07-21 13:14:32,208 DEBUG [main] - org.apache.http.headers.onResponseReceived 124 - http-outgoing-0 << HTTP/1.1 200 OK
+2016-07-21 13:14:32,208 DEBUG [main] - org.apache.http.headers.onResponseReceived 127 - http-outgoing-0 << Cache-Control: no-cache
+2016-07-21 13:14:32,208 DEBUG [main] - org.apache.http.headers.onResponseReceived 127 - http-outgoing-0 << Pragma: no-cache
+2016-07-21 13:14:32,208 DEBUG [main] - org.apache.http.headers.onResponseReceived 127 - http-outgoing-0 << Content-Type: application/json; charset=utf-8
+2016-07-21 13:14:32,208 DEBUG [main] - org.apache.http.headers.onResponseReceived 127 - http-outgoing-0 << Content-Encoding: gzip
+2016-07-21 13:14:32,208 DEBUG [main] - org.apache.http.headers.onResponseReceived 127 - http-outgoing-0 << Expires: -1
+2016-07-21 13:14:32,208 DEBUG [main] - org.apache.http.headers.onResponseReceived 127 - http-outgoing-0 << Vary: Accept-Encoding
+2016-07-21 13:14:32,208 DEBUG [main] - org.apache.http.headers.onResponseReceived 127 - http-outgoing-0 << Server: Microsoft-IIS/8.0
+2016-07-21 13:14:32,208 DEBUG [main] - org.apache.http.headers.onResponseReceived 127 - http-outgoing-0 << X-AspNet-Version: 4.0.30319
+2016-07-21 13:14:32,209 DEBUG [main] - org.apache.http.headers.onResponseReceived 127 - http-outgoing-0 << X-Powered-By: ASP.NET
+2016-07-21 13:14:32,209 DEBUG [main] - org.apache.http.headers.onResponseReceived 127 - http-outgoing-0 << Date: Thu, 21 Jul 2016 10:14:37 GMT
+2016-07-21 13:14:32,209 DEBUG [main] - org.apache.http.headers.onResponseReceived 127 - http-outgoing-0 << Content-Length: 124
+2016-07-21 13:14:32,213 DEBUG [main] - org.apache.http.impl.execchain.MainClientExec.execute 284 - Connection can be kept alive indefinitely
+2016-07-21 13:15:05,675  INFO [main] - myLogger.getReqNo 36 - Number of requests is : null
+2016-07-21 13:15:05,679 ERROR [main] - myLogger.checkQueueStatus 32 - null
+2016-07-21 13:15:05,693 DEBUG [main] - org.apache.http.client.protocol.RequestAddCookies.process 122 - CookieSpec selected: default
+2016-07-21 13:15:05,702 DEBUG [main] - org.apache.http.client.protocol.RequestAuthCache.process 76 - Auth cache not set in the context
+2016-07-21 13:15:05,707 DEBUG [main] - org.apache.http.impl.conn.PoolingHttpClientConnectionManager.requestConnection 249 - Connection request: [route: {}->http://192.168.145.206:8033][total kept alive: 0; route allocated: 0 of 2; total allocated: 0 of 20]
+2016-07-21 13:15:05,729 DEBUG [main] - org.apache.http.impl.conn.PoolingHttpClientConnectionManager.leaseConnection 282 - Connection leased: [id: 0][route: {}->http://192.168.145.206:8033][total kept alive: 0; route allocated: 1 of 2; total allocated: 1 of 20]
+2016-07-21 13:15:05,730 DEBUG [main] - org.apache.http.impl.execchain.MainClientExec.execute 234 - Opening connection {}->http://192.168.145.206:8033
+2016-07-21 13:15:05,734 DEBUG [main] - org.apache.http.impl.conn.DefaultHttpClientConnectionOperator.connect 138 - Connecting to /192.168.145.206:8033
+2016-07-21 13:15:05,739 DEBUG [main] - org.apache.http.impl.conn.DefaultHttpClientConnectionOperator.connect 145 - Connection established 192.168.145.136:52114<->192.168.145.206:8033
+2016-07-21 13:15:05,739 DEBUG [main] - org.apache.http.impl.execchain.MainClientExec.execute 255 - Executing request POST /api/Sra/LogMessage HTTP/1.1
+2016-07-21 13:15:05,739 DEBUG [main] - org.apache.http.impl.execchain.MainClientExec.execute 260 - Target auth state: UNCHALLENGED
+2016-07-21 13:15:05,740 DEBUG [main] - org.apache.http.impl.execchain.MainClientExec.execute 266 - Proxy auth state: UNCHALLENGED
+2016-07-21 13:15:05,742 DEBUG [main] - org.apache.http.headers.onRequestSubmitted 135 - http-outgoing-0 >> POST /api/Sra/LogMessage HTTP/1.1
+2016-07-21 13:15:05,742 DEBUG [main] - org.apache.http.headers.onRequestSubmitted 138 - http-outgoing-0 >> Content-Length: 155
+2016-07-21 13:15:05,742 DEBUG [main] - org.apache.http.headers.onRequestSubmitted 138 - http-outgoing-0 >> Content-Type: application/x-www-form-urlencoded; charset=UTF-8
+2016-07-21 13:15:05,743 DEBUG [main] - org.apache.http.headers.onRequestSubmitted 138 - http-outgoing-0 >> Host: 192.168.145.206:8033
+2016-07-21 13:15:05,743 DEBUG [main] - org.apache.http.headers.onRequestSubmitted 138 - http-outgoing-0 >> Connection: Keep-Alive
+2016-07-21 13:15:05,744 DEBUG [main] - org.apache.http.headers.onRequestSubmitted 138 - http-outgoing-0 >> User-Agent: Apache-HttpClient/4.5.2 (Java/1.8.0_77)
+2016-07-21 13:15:05,744 DEBUG [main] - org.apache.http.headers.onRequestSubmitted 138 - http-outgoing-0 >> Accept-Encoding: gzip,deflate
+2016-07-21 13:15:05,744 DEBUG [main] - org.apache.http.wire.wire 72 - http-outgoing-0 >> "POST /api/Sra/LogMessage HTTP/1.1[\r][\n]"
+2016-07-21 13:15:05,744 DEBUG [main] - org.apache.http.wire.wire 72 - http-outgoing-0 >> "Content-Length: 155[\r][\n]"
+2016-07-21 13:15:05,744 DEBUG [main] - org.apache.http.wire.wire 72 - http-outgoing-0 >> "Content-Type: application/x-www-form-urlencoded; charset=UTF-8[\r][\n]"
+2016-07-21 13:15:05,744 DEBUG [main] - org.apache.http.wire.wire 72 - http-outgoing-0 >> "Host: 192.168.145.206:8033[\r][\n]"
+2016-07-21 13:15:05,745 DEBUG [main] - org.apache.http.wire.wire 72 - http-outgoing-0 >> "Connection: Keep-Alive[\r][\n]"
+2016-07-21 13:15:05,745 DEBUG [main] - org.apache.http.wire.wire 72 - http-outgoing-0 >> "User-Agent: Apache-HttpClient/4.5.2 (Java/1.8.0_77)[\r][\n]"
+2016-07-21 13:15:05,745 DEBUG [main] - org.apache.http.wire.wire 72 - http-outgoing-0 >> "Accept-Encoding: gzip,deflate[\r][\n]"
+2016-07-21 13:15:05,745 DEBUG [main] - org.apache.http.wire.wire 72 - http-outgoing-0 >> "[\r][\n]"
+2016-07-21 13:15:05,745 DEBUG [main] - org.apache.http.wire.wire 86 - http-outgoing-0 >> "Importance=0&Site=AlexanderLogistics&System=postfix&Time=13%3A15%3A05&Workstation=&Level&Message=The+length+of+the+message+queue+is+%3A+null&ExceptionText="
+2016-07-21 13:15:05,758 DEBUG [main] - org.apache.http.wire.wire 72 - http-outgoing-0 << "HTTP/1.1 200 OK[\r][\n]"
+2016-07-21 13:15:05,759 DEBUG [main] - org.apache.http.wire.wire 72 - http-outgoing-0 << "Cache-Control: no-cache[\r][\n]"
+2016-07-21 13:15:05,759 DEBUG [main] - org.apache.http.wire.wire 72 - http-outgoing-0 << "Pragma: no-cache[\r][\n]"
+2016-07-21 13:15:05,759 DEBUG [main] - org.apache.http.wire.wire 72 - http-outgoing-0 << "Content-Type: application/json; charset=utf-8[\r][\n]"
+2016-07-21 13:15:05,759 DEBUG [main] - org.apache.http.wire.wire 72 - http-outgoing-0 << "Content-Encoding: gzip[\r][\n]"
+2016-07-21 13:15:05,759 DEBUG [main] - org.apache.http.wire.wire 72 - http-outgoing-0 << "Expires: -1[\r][\n]"
+2016-07-21 13:15:05,759 DEBUG [main] - org.apache.http.wire.wire 72 - http-outgoing-0 << "Vary: Accept-Encoding[\r][\n]"
+2016-07-21 13:15:05,759 DEBUG [main] - org.apache.http.wire.wire 72 - http-outgoing-0 << "Server: Microsoft-IIS/8.0[\r][\n]"
+2016-07-21 13:15:05,760 DEBUG [main] - org.apache.http.wire.wire 72 - http-outgoing-0 << "X-AspNet-Version: 4.0.30319[\r][\n]"
+2016-07-21 13:15:05,760 DEBUG [main] - org.apache.http.wire.wire 72 - http-outgoing-0 << "X-Powered-By: ASP.NET[\r][\n]"
+2016-07-21 13:15:05,760 DEBUG [main] - org.apache.http.wire.wire 72 - http-outgoing-0 << "Date: Thu, 21 Jul 2016 10:15:10 GMT[\r][\n]"
+2016-07-21 13:15:05,760 DEBUG [main] - org.apache.http.wire.wire 72 - http-outgoing-0 << "Content-Length: 124[\r][\n]"
+2016-07-21 13:15:05,760 DEBUG [main] - org.apache.http.wire.wire 72 - http-outgoing-0 << "[\r][\n]"
+2016-07-21 13:15:05,762 DEBUG [main] - org.apache.http.headers.onResponseReceived 124 - http-outgoing-0 << HTTP/1.1 200 OK
+2016-07-21 13:15:05,763 DEBUG [main] - org.apache.http.headers.onResponseReceived 127 - http-outgoing-0 << Cache-Control: no-cache
+2016-07-21 13:15:05,763 DEBUG [main] - org.apache.http.headers.onResponseReceived 127 - http-outgoing-0 << Pragma: no-cache
+2016-07-21 13:15:05,763 DEBUG [main] - org.apache.http.headers.onResponseReceived 127 - http-outgoing-0 << Content-Type: application/json; charset=utf-8
+2016-07-21 13:15:05,763 DEBUG [main] - org.apache.http.headers.onResponseReceived 127 - http-outgoing-0 << Content-Encoding: gzip
+2016-07-21 13:15:05,763 DEBUG [main] - org.apache.http.headers.onResponseReceived 127 - http-outgoing-0 << Expires: -1
+2016-07-21 13:15:05,763 DEBUG [main] - org.apache.http.headers.onResponseReceived 127 - http-outgoing-0 << Vary: Accept-Encoding
+2016-07-21 13:15:05,763 DEBUG [main] - org.apache.http.headers.onResponseReceived 127 - http-outgoing-0 << Server: Microsoft-IIS/8.0
+2016-07-21 13:15:05,764 DEBUG [main] - org.apache.http.headers.onResponseReceived 127 - http-outgoing-0 << X-AspNet-Version: 4.0.30319
+2016-07-21 13:15:05,764 DEBUG [main] - org.apache.http.headers.onResponseReceived 127 - http-outgoing-0 << X-Powered-By: ASP.NET
+2016-07-21 13:15:05,764 DEBUG [main] - org.apache.http.headers.onResponseReceived 127 - http-outgoing-0 << Date: Thu, 21 Jul 2016 10:15:10 GMT
+2016-07-21 13:15:05,764 DEBUG [main] - org.apache.http.headers.onResponseReceived 127 - http-outgoing-0 << Content-Length: 124
+2016-07-21 13:15:05,768 DEBUG [main] - org.apache.http.impl.execchain.MainClientExec.execute 284 - Connection can be kept alive indefinitely
+2016-07-21 13:15:22,609  INFO [main] - myLogger.getReqNo 36 - Number of requests is : null
+2016-07-21 13:15:31,209  INFO [main] - myLogger.getReqNo 36 - Number of requests is : null
+2016-07-21 13:15:39,315  INFO [main] - myLogger.getReqNo 36 - Number of requests is : null
+2016-07-21 13:15:39,317 ERROR [main] - myLogger.checkQueueStatus 32 - 
+2016-07-21 13:15:39,332 DEBUG [main] - org.apache.http.client.protocol.RequestAddCookies.process 122 - CookieSpec selected: default
+2016-07-21 13:15:39,340 DEBUG [main] - org.apache.http.client.protocol.RequestAuthCache.process 76 - Auth cache not set in the context
+2016-07-21 13:15:39,343 DEBUG [main] - org.apache.http.impl.conn.PoolingHttpClientConnectionManager.requestConnection 249 - Connection request: [route: {}->http://192.168.145.206:8033][total kept alive: 0; route allocated: 0 of 2; total allocated: 0 of 20]
+2016-07-21 13:15:39,359 DEBUG [main] - org.apache.http.impl.conn.PoolingHttpClientConnectionManager.leaseConnection 282 - Connection leased: [id: 0][route: {}->http://192.168.145.206:8033][total kept alive: 0; route allocated: 1 of 2; total allocated: 1 of 20]
+2016-07-21 13:15:39,360 DEBUG [main] - org.apache.http.impl.execchain.MainClientExec.execute 234 - Opening connection {}->http://192.168.145.206:8033
+2016-07-21 13:15:39,365 DEBUG [main] - org.apache.http.impl.conn.DefaultHttpClientConnectionOperator.connect 138 - Connecting to /192.168.145.206:8033
+2016-07-21 13:15:39,386 DEBUG [main] - org.apache.http.impl.conn.DefaultHttpClientConnectionOperator.connect 145 - Connection established 192.168.145.136:52122<->192.168.145.206:8033
+2016-07-21 13:15:39,388 DEBUG [main] - org.apache.http.impl.execchain.MainClientExec.execute 255 - Executing request POST /api/Sra/LogMessage HTTP/1.1
+2016-07-21 13:15:39,388 DEBUG [main] - org.apache.http.impl.execchain.MainClientExec.execute 260 - Target auth state: UNCHALLENGED
+2016-07-21 13:15:39,390 DEBUG [main] - org.apache.http.impl.execchain.MainClientExec.execute 266 - Proxy auth state: UNCHALLENGED
+2016-07-21 13:15:39,397 DEBUG [main] - org.apache.http.headers.onRequestSubmitted 135 - http-outgoing-0 >> POST /api/Sra/LogMessage HTTP/1.1
+2016-07-21 13:15:39,398 DEBUG [main] - org.apache.http.headers.onRequestSubmitted 138 - http-outgoing-0 >> Content-Length: 155
+2016-07-21 13:15:39,398 DEBUG [main] - org.apache.http.headers.onRequestSubmitted 138 - http-outgoing-0 >> Content-Type: application/x-www-form-urlencoded; charset=UTF-8
+2016-07-21 13:15:39,399 DEBUG [main] - org.apache.http.headers.onRequestSubmitted 138 - http-outgoing-0 >> Host: 192.168.145.206:8033
+2016-07-21 13:15:39,403 DEBUG [main] - org.apache.http.headers.onRequestSubmitted 138 - http-outgoing-0 >> Connection: Keep-Alive
+2016-07-21 13:15:39,404 DEBUG [main] - org.apache.http.headers.onRequestSubmitted 138 - http-outgoing-0 >> User-Agent: Apache-HttpClient/4.5.2 (Java/1.8.0_77)
+2016-07-21 13:15:39,404 DEBUG [main] - org.apache.http.headers.onRequestSubmitted 138 - http-outgoing-0 >> Accept-Encoding: gzip,deflate
+2016-07-21 13:15:39,406 DEBUG [main] - org.apache.http.wire.wire 72 - http-outgoing-0 >> "POST /api/Sra/LogMessage HTTP/1.1[\r][\n]"
+2016-07-21 13:15:39,406 DEBUG [main] - org.apache.http.wire.wire 72 - http-outgoing-0 >> "Content-Length: 155[\r][\n]"
+2016-07-21 13:15:39,407 DEBUG [main] - org.apache.http.wire.wire 72 - http-outgoing-0 >> "Content-Type: application/x-www-form-urlencoded; charset=UTF-8[\r][\n]"
+2016-07-21 13:15:39,408 DEBUG [main] - org.apache.http.wire.wire 72 - http-outgoing-0 >> "Host: 192.168.145.206:8033[\r][\n]"
+2016-07-21 13:15:39,408 DEBUG [main] - org.apache.http.wire.wire 72 - http-outgoing-0 >> "Connection: Keep-Alive[\r][\n]"
+2016-07-21 13:15:39,409 DEBUG [main] - org.apache.http.wire.wire 72 - http-outgoing-0 >> "User-Agent: Apache-HttpClient/4.5.2 (Java/1.8.0_77)[\r][\n]"
+2016-07-21 13:15:39,410 DEBUG [main] - org.apache.http.wire.wire 72 - http-outgoing-0 >> "Accept-Encoding: gzip,deflate[\r][\n]"
+2016-07-21 13:15:39,410 DEBUG [main] - org.apache.http.wire.wire 72 - http-outgoing-0 >> "[\r][\n]"
+2016-07-21 13:15:39,411 DEBUG [main] - org.apache.http.wire.wire 86 - http-outgoing-0 >> "Importance=0&Site=AlexanderLogistics&System=postfix&Time=13%3A15%3A38&Workstation=&Level&Message=The+length+of+the+message+queue+is+%3A+null&ExceptionText="
+2016-07-21 13:15:39,445 DEBUG [main] - org.apache.http.wire.wire 72 - http-outgoing-0 << "HTTP/1.1 200 OK[\r][\n]"
+2016-07-21 13:15:39,446 DEBUG [main] - org.apache.http.wire.wire 72 - http-outgoing-0 << "Cache-Control: no-cache[\r][\n]"
+2016-07-21 13:15:39,446 DEBUG [main] - org.apache.http.wire.wire 72 - http-outgoing-0 << "Pragma: no-cache[\r][\n]"
+2016-07-21 13:15:39,446 DEBUG [main] - org.apache.http.wire.wire 72 - http-outgoing-0 << "Content-Type: application/json; charset=utf-8[\r][\n]"
+2016-07-21 13:15:39,447 DEBUG [main] - org.apache.http.wire.wire 72 - http-outgoing-0 << "Content-Encoding: gzip[\r][\n]"
+2016-07-21 13:15:39,447 DEBUG [main] - org.apache.http.wire.wire 72 - http-outgoing-0 << "Expires: -1[\r][\n]"
+2016-07-21 13:15:39,447 DEBUG [main] - org.apache.http.wire.wire 72 - http-outgoing-0 << "Vary: Accept-Encoding[\r][\n]"
+2016-07-21 13:15:39,447 DEBUG [main] - org.apache.http.wire.wire 72 - http-outgoing-0 << "Server: Microsoft-IIS/8.0[\r][\n]"
+2016-07-21 13:15:39,448 DEBUG [main] - org.apache.http.wire.wire 72 - http-outgoing-0 << "X-AspNet-Version: 4.0.30319[\r][\n]"
+2016-07-21 13:15:39,448 DEBUG [main] - org.apache.http.wire.wire 72 - http-outgoing-0 << "X-Powered-By: ASP.NET[\r][\n]"
+2016-07-21 13:15:39,448 DEBUG [main] - org.apache.http.wire.wire 72 - http-outgoing-0 << "Date: Thu, 21 Jul 2016 10:15:44 GMT[\r][\n]"
+2016-07-21 13:15:39,448 DEBUG [main] - org.apache.http.wire.wire 72 - http-outgoing-0 << "Content-Length: 124[\r][\n]"
+2016-07-21 13:15:39,448 DEBUG [main] - org.apache.http.wire.wire 72 - http-outgoing-0 << "[\r][\n]"
+2016-07-21 13:15:39,453 DEBUG [main] - org.apache.http.headers.onResponseReceived 124 - http-outgoing-0 << HTTP/1.1 200 OK
+2016-07-21 13:15:39,453 DEBUG [main] - org.apache.http.headers.onResponseReceived 127 - http-outgoing-0 << Cache-Control: no-cache
+2016-07-21 13:15:39,453 DEBUG [main] - org.apache.http.headers.onResponseReceived 127 - http-outgoing-0 << Pragma: no-cache
+2016-07-21 13:15:39,454 DEBUG [main] - org.apache.http.headers.onResponseReceived 127 - http-outgoing-0 << Content-Type: application/json; charset=utf-8
+2016-07-21 13:15:39,454 DEBUG [main] - org.apache.http.headers.onResponseReceived 127 - http-outgoing-0 << Content-Encoding: gzip
+2016-07-21 13:15:39,454 DEBUG [main] - org.apache.http.headers.onResponseReceived 127 - http-outgoing-0 << Expires: -1
+2016-07-21 13:15:39,454 DEBUG [main] - org.apache.http.headers.onResponseReceived 127 - http-outgoing-0 << Vary: Accept-Encoding
+2016-07-21 13:15:39,454 DEBUG [main] - org.apache.http.headers.onResponseReceived 127 - http-outgoing-0 << Server: Microsoft-IIS/8.0
+2016-07-21 13:15:39,454 DEBUG [main] - org.apache.http.headers.onResponseReceived 127 - http-outgoing-0 << X-AspNet-Version: 4.0.30319
+2016-07-21 13:15:39,455 DEBUG [main] - org.apache.http.headers.onResponseReceived 127 - http-outgoing-0 << X-Powered-By: ASP.NET
+2016-07-21 13:15:39,455 DEBUG [main] - org.apache.http.headers.onResponseReceived 127 - http-outgoing-0 << Date: Thu, 21 Jul 2016 10:15:44 GMT
+2016-07-21 13:15:39,455 DEBUG [main] - org.apache.http.headers.onResponseReceived 127 - http-outgoing-0 << Content-Length: 124
+2016-07-21 13:15:39,461 DEBUG [main] - org.apache.http.impl.execchain.MainClientExec.execute 284 - Connection can be kept alive indefinitely
+2016-07-21 13:16:16,500  INFO [main] - myLogger.getReqNo 36 - Number of requests is : null
+2016-07-21 13:16:44,619  INFO [main] - myLogger.getReqNo 36 - Number of requests is : null
+2016-07-21 13:17:42,725  INFO [main] - myLogger.getReqNo 36 - Number of requests is : null
+2016-07-21 13:17:42,728 ERROR [main] - myLogger.checkQueueStatus 32 - java.lang.NumberFormatException: null
+2016-07-21 13:17:42,743 DEBUG [main] - org.apache.http.client.protocol.RequestAddCookies.process 122 - CookieSpec selected: default
+2016-07-21 13:17:42,753 DEBUG [main] - org.apache.http.client.protocol.RequestAuthCache.process 76 - Auth cache not set in the context
+2016-07-21 13:17:42,756 DEBUG [main] - org.apache.http.impl.conn.PoolingHttpClientConnectionManager.requestConnection 249 - Connection request: [route: {}->http://192.168.145.206:8033][total kept alive: 0; route allocated: 0 of 2; total allocated: 0 of 20]
+2016-07-21 13:17:42,768 DEBUG [main] - org.apache.http.impl.conn.PoolingHttpClientConnectionManager.leaseConnection 282 - Connection leased: [id: 0][route: {}->http://192.168.145.206:8033][total kept alive: 0; route allocated: 1 of 2; total allocated: 1 of 20]
+2016-07-21 13:17:42,770 DEBUG [main] - org.apache.http.impl.execchain.MainClientExec.execute 234 - Opening connection {}->http://192.168.145.206:8033
+2016-07-21 13:17:42,775 DEBUG [main] - org.apache.http.impl.conn.DefaultHttpClientConnectionOperator.connect 138 - Connecting to /192.168.145.206:8033
+2016-07-21 13:17:42,857 DEBUG [main] - org.apache.http.impl.conn.DefaultHttpClientConnectionOperator.connect 145 - Connection established 192.168.145.136:52147<->192.168.145.206:8033
+2016-07-21 13:17:42,858 DEBUG [main] - org.apache.http.impl.execchain.MainClientExec.execute 255 - Executing request POST /api/Sra/LogMessage HTTP/1.1
+2016-07-21 13:17:42,858 DEBUG [main] - org.apache.http.impl.execchain.MainClientExec.execute 260 - Target auth state: UNCHALLENGED
+2016-07-21 13:17:42,859 DEBUG [main] - org.apache.http.impl.execchain.MainClientExec.execute 266 - Proxy auth state: UNCHALLENGED
+2016-07-21 13:17:42,862 DEBUG [main] - org.apache.http.headers.onRequestSubmitted 135 - http-outgoing-0 >> POST /api/Sra/LogMessage HTTP/1.1
+2016-07-21 13:17:42,862 DEBUG [main] - org.apache.http.headers.onRequestSubmitted 138 - http-outgoing-0 >> Content-Length: 155
+2016-07-21 13:17:42,862 DEBUG [main] - org.apache.http.headers.onRequestSubmitted 138 - http-outgoing-0 >> Content-Type: application/x-www-form-urlencoded; charset=UTF-8
+2016-07-21 13:17:42,863 DEBUG [main] - org.apache.http.headers.onRequestSubmitted 138 - http-outgoing-0 >> Host: 192.168.145.206:8033
+2016-07-21 13:17:42,864 DEBUG [main] - org.apache.http.headers.onRequestSubmitted 138 - http-outgoing-0 >> Connection: Keep-Alive
+2016-07-21 13:17:42,864 DEBUG [main] - org.apache.http.headers.onRequestSubmitted 138 - http-outgoing-0 >> User-Agent: Apache-HttpClient/4.5.2 (Java/1.8.0_77)
+2016-07-21 13:17:42,865 DEBUG [main] - org.apache.http.headers.onRequestSubmitted 138 - http-outgoing-0 >> Accept-Encoding: gzip,deflate
+2016-07-21 13:17:42,865 DEBUG [main] - org.apache.http.wire.wire 72 - http-outgoing-0 >> "POST /api/Sra/LogMessage HTTP/1.1[\r][\n]"
+2016-07-21 13:17:42,865 DEBUG [main] - org.apache.http.wire.wire 72 - http-outgoing-0 >> "Content-Length: 155[\r][\n]"
+2016-07-21 13:17:42,866 DEBUG [main] - org.apache.http.wire.wire 72 - http-outgoing-0 >> "Content-Type: application/x-www-form-urlencoded; charset=UTF-8[\r][\n]"
+2016-07-21 13:17:42,866 DEBUG [main] - org.apache.http.wire.wire 72 - http-outgoing-0 >> "Host: 192.168.145.206:8033[\r][\n]"
+2016-07-21 13:17:42,866 DEBUG [main] - org.apache.http.wire.wire 72 - http-outgoing-0 >> "Connection: Keep-Alive[\r][\n]"
+2016-07-21 13:17:42,866 DEBUG [main] - org.apache.http.wire.wire 72 - http-outgoing-0 >> "User-Agent: Apache-HttpClient/4.5.2 (Java/1.8.0_77)[\r][\n]"
+2016-07-21 13:17:42,866 DEBUG [main] - org.apache.http.wire.wire 72 - http-outgoing-0 >> "Accept-Encoding: gzip,deflate[\r][\n]"
+2016-07-21 13:17:42,867 DEBUG [main] - org.apache.http.wire.wire 72 - http-outgoing-0 >> "[\r][\n]"
+2016-07-21 13:17:42,867 DEBUG [main] - org.apache.http.wire.wire 86 - http-outgoing-0 >> "Importance=0&Site=AlexanderLogistics&System=postfix&Time=13%3A17%3A42&Workstation=&Level&Message=The+length+of+the+message+queue+is+%3A+null&ExceptionText="
+2016-07-21 13:17:42,882 DEBUG [main] - org.apache.http.wire.wire 72 - http-outgoing-0 << "HTTP/1.1 200 OK[\r][\n]"
+2016-07-21 13:17:42,882 DEBUG [main] - org.apache.http.wire.wire 72 - http-outgoing-0 << "Cache-Control: no-cache[\r][\n]"
+2016-07-21 13:17:42,882 DEBUG [main] - org.apache.http.wire.wire 72 - http-outgoing-0 << "Pragma: no-cache[\r][\n]"
+2016-07-21 13:17:42,883 DEBUG [main] - org.apache.http.wire.wire 72 - http-outgoing-0 << "Content-Type: application/json; charset=utf-8[\r][\n]"
+2016-07-21 13:17:42,883 DEBUG [main] - org.apache.http.wire.wire 72 - http-outgoing-0 << "Content-Encoding: gzip[\r][\n]"
+2016-07-21 13:17:42,883 DEBUG [main] - org.apache.http.wire.wire 72 - http-outgoing-0 << "Expires: -1[\r][\n]"
+2016-07-21 13:17:42,883 DEBUG [main] - org.apache.http.wire.wire 72 - http-outgoing-0 << "Vary: Accept-Encoding[\r][\n]"
+2016-07-21 13:17:42,883 DEBUG [main] - org.apache.http.wire.wire 72 - http-outgoing-0 << "Server: Microsoft-IIS/8.0[\r][\n]"
+2016-07-21 13:17:42,883 DEBUG [main] - org.apache.http.wire.wire 72 - http-outgoing-0 << "X-AspNet-Version: 4.0.30319[\r][\n]"
+2016-07-21 13:17:42,883 DEBUG [main] - org.apache.http.wire.wire 72 - http-outgoing-0 << "X-Powered-By: ASP.NET[\r][\n]"
+2016-07-21 13:17:42,884 DEBUG [main] - org.apache.http.wire.wire 72 - http-outgoing-0 << "Date: Thu, 21 Jul 2016 10:17:47 GMT[\r][\n]"
+2016-07-21 13:17:42,884 DEBUG [main] - org.apache.http.wire.wire 72 - http-outgoing-0 << "Content-Length: 124[\r][\n]"
+2016-07-21 13:17:42,884 DEBUG [main] - org.apache.http.wire.wire 72 - http-outgoing-0 << "[\r][\n]"
+2016-07-21 13:17:42,886 DEBUG [main] - org.apache.http.headers.onResponseReceived 124 - http-outgoing-0 << HTTP/1.1 200 OK
+2016-07-21 13:17:42,887 DEBUG [main] - org.apache.http.headers.onResponseReceived 127 - http-outgoing-0 << Cache-Control: no-cache
+2016-07-21 13:17:42,887 DEBUG [main] - org.apache.http.headers.onResponseReceived 127 - http-outgoing-0 << Pragma: no-cache
+2016-07-21 13:17:42,887 DEBUG [main] - org.apache.http.headers.onResponseReceived 127 - http-outgoing-0 << Content-Type: application/json; charset=utf-8
+2016-07-21 13:17:42,887 DEBUG [main] - org.apache.http.headers.onResponseReceived 127 - http-outgoing-0 << Content-Encoding: gzip
+2016-07-21 13:17:42,887 DEBUG [main] - org.apache.http.headers.onResponseReceived 127 - http-outgoing-0 << Expires: -1
+2016-07-21 13:17:42,887 DEBUG [main] - org.apache.http.headers.onResponseReceived 127 - http-outgoing-0 << Vary: Accept-Encoding
+2016-07-21 13:17:42,888 DEBUG [main] - org.apache.http.headers.onResponseReceived 127 - http-outgoing-0 << Server: Microsoft-IIS/8.0
+2016-07-21 13:17:42,888 DEBUG [main] - org.apache.http.headers.onResponseReceived 127 - http-outgoing-0 << X-AspNet-Version: 4.0.30319
+2016-07-21 13:17:42,888 DEBUG [main] - org.apache.http.headers.onResponseReceived 127 - http-outgoing-0 << X-Powered-By: ASP.NET
+2016-07-21 13:17:42,888 DEBUG [main] - org.apache.http.headers.onResponseReceived 127 - http-outgoing-0 << Date: Thu, 21 Jul 2016 10:17:47 GMT
+2016-07-21 13:17:42,888 DEBUG [main] - org.apache.http.headers.onResponseReceived 127 - http-outgoing-0 << Content-Length: 124
+2016-07-21 13:17:42,892 DEBUG [main] - org.apache.http.impl.execchain.MainClientExec.execute 284 - Connection can be kept alive indefinitely
+2016-07-21 13:32:38,107  INFO [main] - myLogger.getReqNo 36 - Number of requests is : null
+2016-07-21 13:32:38,110 ERROR [main] - myLogger.checkQueueStatus 32 - java.lang.NumberFormatException: null at line 20
+2016-07-21 13:32:38,123 DEBUG [main] - org.apache.http.client.protocol.RequestAddCookies.process 122 - CookieSpec selected: default
+2016-07-21 13:32:38,132 DEBUG [main] - org.apache.http.client.protocol.RequestAuthCache.process 76 - Auth cache not set in the context
+2016-07-21 13:32:38,135 DEBUG [main] - org.apache.http.impl.conn.PoolingHttpClientConnectionManager.requestConnection 249 - Connection request: [route: {}->http://192.168.145.206:8033][total kept alive: 0; route allocated: 0 of 2; total allocated: 0 of 20]
+2016-07-21 13:32:38,148 DEBUG [main] - org.apache.http.impl.conn.PoolingHttpClientConnectionManager.leaseConnection 282 - Connection leased: [id: 0][route: {}->http://192.168.145.206:8033][total kept alive: 0; route allocated: 1 of 2; total allocated: 1 of 20]
+2016-07-21 13:32:38,149 DEBUG [main] - org.apache.http.impl.execchain.MainClientExec.execute 234 - Opening connection {}->http://192.168.145.206:8033
+2016-07-21 13:32:38,152 DEBUG [main] - org.apache.http.impl.conn.DefaultHttpClientConnectionOperator.connect 138 - Connecting to /192.168.145.206:8033
+2016-07-21 13:32:38,254 DEBUG [main] - org.apache.http.impl.conn.DefaultHttpClientConnectionOperator.connect 145 - Connection established 192.168.145.136:52250<->192.168.145.206:8033
+2016-07-21 13:32:38,256 DEBUG [main] - org.apache.http.impl.execchain.MainClientExec.execute 255 - Executing request POST /api/Sra/LogMessage HTTP/1.1
+2016-07-21 13:32:38,256 DEBUG [main] - org.apache.http.impl.execchain.MainClientExec.execute 260 - Target auth state: UNCHALLENGED
+2016-07-21 13:32:38,259 DEBUG [main] - org.apache.http.impl.execchain.MainClientExec.execute 266 - Proxy auth state: UNCHALLENGED
+2016-07-21 13:32:38,265 DEBUG [main] - org.apache.http.headers.onRequestSubmitted 135 - http-outgoing-0 >> POST /api/Sra/LogMessage HTTP/1.1
+2016-07-21 13:32:38,265 DEBUG [main] - org.apache.http.headers.onRequestSubmitted 138 - http-outgoing-0 >> Content-Length: 155
+2016-07-21 13:32:38,266 DEBUG [main] - org.apache.http.headers.onRequestSubmitted 138 - http-outgoing-0 >> Content-Type: application/x-www-form-urlencoded; charset=UTF-8
+2016-07-21 13:32:38,266 DEBUG [main] - org.apache.http.headers.onRequestSubmitted 138 - http-outgoing-0 >> Host: 192.168.145.206:8033
+2016-07-21 13:32:38,270 DEBUG [main] - org.apache.http.headers.onRequestSubmitted 138 - http-outgoing-0 >> Connection: Keep-Alive
+2016-07-21 13:32:38,271 DEBUG [main] - org.apache.http.headers.onRequestSubmitted 138 - http-outgoing-0 >> User-Agent: Apache-HttpClient/4.5.2 (Java/1.8.0_77)
+2016-07-21 13:32:38,271 DEBUG [main] - org.apache.http.headers.onRequestSubmitted 138 - http-outgoing-0 >> Accept-Encoding: gzip,deflate
+2016-07-21 13:32:38,273 DEBUG [main] - org.apache.http.wire.wire 72 - http-outgoing-0 >> "POST /api/Sra/LogMessage HTTP/1.1[\r][\n]"
+2016-07-21 13:32:38,273 DEBUG [main] - org.apache.http.wire.wire 72 - http-outgoing-0 >> "Content-Length: 155[\r][\n]"
+2016-07-21 13:32:38,274 DEBUG [main] - org.apache.http.wire.wire 72 - http-outgoing-0 >> "Content-Type: application/x-www-form-urlencoded; charset=UTF-8[\r][\n]"
+2016-07-21 13:32:38,275 DEBUG [main] - org.apache.http.wire.wire 72 - http-outgoing-0 >> "Host: 192.168.145.206:8033[\r][\n]"
+2016-07-21 13:32:38,275 DEBUG [main] - org.apache.http.wire.wire 72 - http-outgoing-0 >> "Connection: Keep-Alive[\r][\n]"
+2016-07-21 13:32:38,276 DEBUG [main] - org.apache.http.wire.wire 72 - http-outgoing-0 >> "User-Agent: Apache-HttpClient/4.5.2 (Java/1.8.0_77)[\r][\n]"
+2016-07-21 13:32:38,277 DEBUG [main] - org.apache.http.wire.wire 72 - http-outgoing-0 >> "Accept-Encoding: gzip,deflate[\r][\n]"
+2016-07-21 13:32:38,278 DEBUG [main] - org.apache.http.wire.wire 72 - http-outgoing-0 >> "[\r][\n]"
+2016-07-21 13:32:38,279 DEBUG [main] - org.apache.http.wire.wire 86 - http-outgoing-0 >> "Importance=0&Site=AlexanderLogistics&System=postfix&Time=13%3A32%3A37&Workstation=&Level&Message=The+length+of+the+message+queue+is+%3A+null&ExceptionText="
+2016-07-21 13:32:38,306 DEBUG [main] - org.apache.http.wire.wire 72 - http-outgoing-0 << "HTTP/1.1 200 OK[\r][\n]"
+2016-07-21 13:32:38,307 DEBUG [main] - org.apache.http.wire.wire 72 - http-outgoing-0 << "Cache-Control: no-cache[\r][\n]"
+2016-07-21 13:32:38,307 DEBUG [main] - org.apache.http.wire.wire 72 - http-outgoing-0 << "Pragma: no-cache[\r][\n]"
+2016-07-21 13:32:38,308 DEBUG [main] - org.apache.http.wire.wire 72 - http-outgoing-0 << "Content-Type: application/json; charset=utf-8[\r][\n]"
+2016-07-21 13:32:38,308 DEBUG [main] - org.apache.http.wire.wire 72 - http-outgoing-0 << "Content-Encoding: gzip[\r][\n]"
+2016-07-21 13:32:38,309 DEBUG [main] - org.apache.http.wire.wire 72 - http-outgoing-0 << "Expires: -1[\r][\n]"
+2016-07-21 13:32:38,309 DEBUG [main] - org.apache.http.wire.wire 72 - http-outgoing-0 << "Vary: Accept-Encoding[\r][\n]"
+2016-07-21 13:32:38,310 DEBUG [main] - org.apache.http.wire.wire 72 - http-outgoing-0 << "Server: Microsoft-IIS/8.0[\r][\n]"
+2016-07-21 13:32:38,310 DEBUG [main] - org.apache.http.wire.wire 72 - http-outgoing-0 << "X-AspNet-Version: 4.0.30319[\r][\n]"
+2016-07-21 13:32:38,311 DEBUG [main] - org.apache.http.wire.wire 72 - http-outgoing-0 << "X-Powered-By: ASP.NET[\r][\n]"
+2016-07-21 13:32:38,311 DEBUG [main] - org.apache.http.wire.wire 72 - http-outgoing-0 << "Date: Thu, 21 Jul 2016 10:32:43 GMT[\r][\n]"
+2016-07-21 13:32:38,311 DEBUG [main] - org.apache.http.wire.wire 72 - http-outgoing-0 << "Content-Length: 124[\r][\n]"
+2016-07-21 13:32:38,312 DEBUG [main] - org.apache.http.wire.wire 72 - http-outgoing-0 << "[\r][\n]"
+2016-07-21 13:32:38,322 DEBUG [main] - org.apache.http.headers.onResponseReceived 124 - http-outgoing-0 << HTTP/1.1 200 OK
+2016-07-21 13:32:38,322 DEBUG [main] - org.apache.http.headers.onResponseReceived 127 - http-outgoing-0 << Cache-Control: no-cache
+2016-07-21 13:32:38,323 DEBUG [main] - org.apache.http.headers.onResponseReceived 127 - http-outgoing-0 << Pragma: no-cache
+2016-07-21 13:32:38,323 DEBUG [main] - org.apache.http.headers.onResponseReceived 127 - http-outgoing-0 << Content-Type: application/json; charset=utf-8
+2016-07-21 13:32:38,324 DEBUG [main] - org.apache.http.headers.onResponseReceived 127 - http-outgoing-0 << Content-Encoding: gzip
+2016-07-21 13:32:38,324 DEBUG [main] - org.apache.http.headers.onResponseReceived 127 - http-outgoing-0 << Expires: -1
+2016-07-21 13:32:38,325 DEBUG [main] - org.apache.http.headers.onResponseReceived 127 - http-outgoing-0 << Vary: Accept-Encoding
+2016-07-21 13:32:38,325 DEBUG [main] - org.apache.http.headers.onResponseReceived 127 - http-outgoing-0 << Server: Microsoft-IIS/8.0
+2016-07-21 13:32:38,326 DEBUG [main] - org.apache.http.headers.onResponseReceived 127 - http-outgoing-0 << X-AspNet-Version: 4.0.30319
+2016-07-21 13:32:38,326 DEBUG [main] - org.apache.http.headers.onResponseReceived 127 - http-outgoing-0 << X-Powered-By: ASP.NET
+2016-07-21 13:32:38,327 DEBUG [main] - org.apache.http.headers.onResponseReceived 127 - http-outgoing-0 << Date: Thu, 21 Jul 2016 10:32:43 GMT
+2016-07-21 13:32:38,327 DEBUG [main] - org.apache.http.headers.onResponseReceived 127 - http-outgoing-0 << Content-Length: 124
+2016-07-21 13:32:38,343 DEBUG [main] - org.apache.http.impl.execchain.MainClientExec.execute 284 - Connection can be kept alive indefinitely
+2016-07-21 13:32:50,419  INFO [main] - myLogger.getReqNo 36 - Number of requests is : null
+2016-07-21 13:32:50,422 ERROR [main] - myLogger.checkQueueStatus 32 - java.lang.NumberFormatException: null at line 20
+2016-07-21 13:32:50,435 DEBUG [main] - org.apache.http.client.protocol.RequestAddCookies.process 122 - CookieSpec selected: default
+2016-07-21 13:32:50,444 DEBUG [main] - org.apache.http.client.protocol.RequestAuthCache.process 76 - Auth cache not set in the context
+2016-07-21 13:32:50,448 DEBUG [main] - org.apache.http.impl.conn.PoolingHttpClientConnectionManager.requestConnection 249 - Connection request: [route: {}->http://192.168.145.206:8033][total kept alive: 0; route allocated: 0 of 2; total allocated: 0 of 20]
+2016-07-21 13:32:50,460 DEBUG [main] - org.apache.http.impl.conn.PoolingHttpClientConnectionManager.leaseConnection 282 - Connection leased: [id: 0][route: {}->http://192.168.145.206:8033][total kept alive: 0; route allocated: 1 of 2; total allocated: 1 of 20]
+2016-07-21 13:32:50,461 DEBUG [main] - org.apache.http.impl.execchain.MainClientExec.execute 234 - Opening connection {}->http://192.168.145.206:8033
+2016-07-21 13:32:50,465 DEBUG [main] - org.apache.http.impl.conn.DefaultHttpClientConnectionOperator.connect 138 - Connecting to /192.168.145.206:8033
+2016-07-21 13:32:50,469 DEBUG [main] - org.apache.http.impl.conn.DefaultHttpClientConnectionOperator.connect 145 - Connection established 192.168.145.136:52253<->192.168.145.206:8033
+2016-07-21 13:32:50,469 DEBUG [main] - org.apache.http.impl.execchain.MainClientExec.execute 255 - Executing request POST /api/Sra/LogMessage HTTP/1.1
+2016-07-21 13:32:50,469 DEBUG [main] - org.apache.http.impl.execchain.MainClientExec.execute 260 - Target auth state: UNCHALLENGED
+2016-07-21 13:32:50,470 DEBUG [main] - org.apache.http.impl.execchain.MainClientExec.execute 266 - Proxy auth state: UNCHALLENGED
+2016-07-21 13:32:50,472 DEBUG [main] - org.apache.http.headers.onRequestSubmitted 135 - http-outgoing-0 >> POST /api/Sra/LogMessage HTTP/1.1
+2016-07-21 13:32:50,472 DEBUG [main] - org.apache.http.headers.onRequestSubmitted 138 - http-outgoing-0 >> Content-Length: 155
+2016-07-21 13:32:50,472 DEBUG [main] - org.apache.http.headers.onRequestSubmitted 138 - http-outgoing-0 >> Content-Type: application/x-www-form-urlencoded; charset=UTF-8
+2016-07-21 13:32:50,472 DEBUG [main] - org.apache.http.headers.onRequestSubmitted 138 - http-outgoing-0 >> Host: 192.168.145.206:8033
+2016-07-21 13:32:50,473 DEBUG [main] - org.apache.http.headers.onRequestSubmitted 138 - http-outgoing-0 >> Connection: Keep-Alive
+2016-07-21 13:32:50,474 DEBUG [main] - org.apache.http.headers.onRequestSubmitted 138 - http-outgoing-0 >> User-Agent: Apache-HttpClient/4.5.2 (Java/1.8.0_77)
+2016-07-21 13:32:50,474 DEBUG [main] - org.apache.http.headers.onRequestSubmitted 138 - http-outgoing-0 >> Accept-Encoding: gzip,deflate
+2016-07-21 13:32:50,474 DEBUG [main] - org.apache.http.wire.wire 72 - http-outgoing-0 >> "POST /api/Sra/LogMessage HTTP/1.1[\r][\n]"
+2016-07-21 13:32:50,474 DEBUG [main] - org.apache.http.wire.wire 72 - http-outgoing-0 >> "Content-Length: 155[\r][\n]"
+2016-07-21 13:32:50,474 DEBUG [main] - org.apache.http.wire.wire 72 - http-outgoing-0 >> "Content-Type: application/x-www-form-urlencoded; charset=UTF-8[\r][\n]"
+2016-07-21 13:32:50,475 DEBUG [main] - org.apache.http.wire.wire 72 - http-outgoing-0 >> "Host: 192.168.145.206:8033[\r][\n]"
+2016-07-21 13:32:50,475 DEBUG [main] - org.apache.http.wire.wire 72 - http-outgoing-0 >> "Connection: Keep-Alive[\r][\n]"
+2016-07-21 13:32:50,475 DEBUG [main] - org.apache.http.wire.wire 72 - http-outgoing-0 >> "User-Agent: Apache-HttpClient/4.5.2 (Java/1.8.0_77)[\r][\n]"
+2016-07-21 13:32:50,475 DEBUG [main] - org.apache.http.wire.wire 72 - http-outgoing-0 >> "Accept-Encoding: gzip,deflate[\r][\n]"
+2016-07-21 13:32:50,475 DEBUG [main] - org.apache.http.wire.wire 72 - http-outgoing-0 >> "[\r][\n]"
+2016-07-21 13:32:50,475 DEBUG [main] - org.apache.http.wire.wire 86 - http-outgoing-0 >> "Importance=0&Site=AlexanderLogistics&System=postfix&Time=13%3A32%3A50&Workstation=&Level&Message=The+length+of+the+message+queue+is+%3A+null&ExceptionText="
+2016-07-21 13:32:50,497 DEBUG [main] - org.apache.http.wire.wire 72 - http-outgoing-0 << "HTTP/1.1 200 OK[\r][\n]"
+2016-07-21 13:32:50,498 DEBUG [main] - org.apache.http.wire.wire 72 - http-outgoing-0 << "Cache-Control: no-cache[\r][\n]"
+2016-07-21 13:32:50,498 DEBUG [main] - org.apache.http.wire.wire 72 - http-outgoing-0 << "Pragma: no-cache[\r][\n]"
+2016-07-21 13:32:50,498 DEBUG [main] - org.apache.http.wire.wire 72 - http-outgoing-0 << "Content-Type: application/json; charset=utf-8[\r][\n]"
+2016-07-21 13:32:50,498 DEBUG [main] - org.apache.http.wire.wire 72 - http-outgoing-0 << "Content-Encoding: gzip[\r][\n]"
+2016-07-21 13:32:50,498 DEBUG [main] - org.apache.http.wire.wire 72 - http-outgoing-0 << "Expires: -1[\r][\n]"
+2016-07-21 13:32:50,498 DEBUG [main] - org.apache.http.wire.wire 72 - http-outgoing-0 << "Vary: Accept-Encoding[\r][\n]"
+2016-07-21 13:32:50,499 DEBUG [main] - org.apache.http.wire.wire 72 - http-outgoing-0 << "Server: Microsoft-IIS/8.0[\r][\n]"
+2016-07-21 13:32:50,499 DEBUG [main] - org.apache.http.wire.wire 72 - http-outgoing-0 << "X-AspNet-Version: 4.0.30319[\r][\n]"
+2016-07-21 13:32:50,499 DEBUG [main] - org.apache.http.wire.wire 72 - http-outgoing-0 << "X-Powered-By: ASP.NET[\r][\n]"
+2016-07-21 13:32:50,499 DEBUG [main] - org.apache.http.wire.wire 72 - http-outgoing-0 << "Date: Thu, 21 Jul 2016 10:32:55 GMT[\r][\n]"
+2016-07-21 13:32:50,499 DEBUG [main] - org.apache.http.wire.wire 72 - http-outgoing-0 << "Content-Length: 124[\r][\n]"
+2016-07-21 13:32:50,499 DEBUG [main] - org.apache.http.wire.wire 72 - http-outgoing-0 << "[\r][\n]"
+2016-07-21 13:32:50,502 DEBUG [main] - org.apache.http.headers.onResponseReceived 124 - http-outgoing-0 << HTTP/1.1 200 OK
+2016-07-21 13:32:50,502 DEBUG [main] - org.apache.http.headers.onResponseReceived 127 - http-outgoing-0 << Cache-Control: no-cache
+2016-07-21 13:32:50,502 DEBUG [main] - org.apache.http.headers.onResponseReceived 127 - http-outgoing-0 << Pragma: no-cache
+2016-07-21 13:32:50,502 DEBUG [main] - org.apache.http.headers.onResponseReceived 127 - http-outgoing-0 << Content-Type: application/json; charset=utf-8
+2016-07-21 13:32:50,503 DEBUG [main] - org.apache.http.headers.onResponseReceived 127 - http-outgoing-0 << Content-Encoding: gzip
+2016-07-21 13:32:50,503 DEBUG [main] - org.apache.http.headers.onResponseReceived 127 - http-outgoing-0 << Expires: -1
+2016-07-21 13:32:50,503 DEBUG [main] - org.apache.http.headers.onResponseReceived 127 - http-outgoing-0 << Vary: Accept-Encoding
+2016-07-21 13:32:50,503 DEBUG [main] - org.apache.http.headers.onResponseReceived 127 - http-outgoing-0 << Server: Microsoft-IIS/8.0
+2016-07-21 13:32:50,503 DEBUG [main] - org.apache.http.headers.onResponseReceived 127 - http-outgoing-0 << X-AspNet-Version: 4.0.30319
+2016-07-21 13:32:50,503 DEBUG [main] - org.apache.http.headers.onResponseReceived 127 - http-outgoing-0 << X-Powered-By: ASP.NET
+2016-07-21 13:32:50,503 DEBUG [main] - org.apache.http.headers.onResponseReceived 127 - http-outgoing-0 << Date: Thu, 21 Jul 2016 10:32:55 GMT
+2016-07-21 13:32:50,503 DEBUG [main] - org.apache.http.headers.onResponseReceived 127 - http-outgoing-0 << Content-Length: 124
+2016-07-21 13:32:50,507 DEBUG [main] - org.apache.http.impl.execchain.MainClientExec.execute 284 - Connection can be kept alive indefinitely
+2016-07-21 13:33:39,812  INFO [main] - myLogger.getReqNo 36 - Number of requests is : null
+2016-07-21 13:33:39,815 ERROR [main] - myLogger.checkQueueStatus 32 - line 20 in QueueChecker@61230f6a
+2016-07-21 13:33:39,834 DEBUG [main] - org.apache.http.client.protocol.RequestAddCookies.process 122 - CookieSpec selected: default
+2016-07-21 13:33:39,845 DEBUG [main] - org.apache.http.client.protocol.RequestAuthCache.process 76 - Auth cache not set in the context
+2016-07-21 13:33:39,848 DEBUG [main] - org.apache.http.impl.conn.PoolingHttpClientConnectionManager.requestConnection 249 - Connection request: [route: {}->http://192.168.145.206:8033][total kept alive: 0; route allocated: 0 of 2; total allocated: 0 of 20]
+2016-07-21 13:33:39,863 DEBUG [main] - org.apache.http.impl.conn.PoolingHttpClientConnectionManager.leaseConnection 282 - Connection leased: [id: 0][route: {}->http://192.168.145.206:8033][total kept alive: 0; route allocated: 1 of 2; total allocated: 1 of 20]
+2016-07-21 13:33:39,865 DEBUG [main] - org.apache.http.impl.execchain.MainClientExec.execute 234 - Opening connection {}->http://192.168.145.206:8033
+2016-07-21 13:33:39,868 DEBUG [main] - org.apache.http.impl.conn.DefaultHttpClientConnectionOperator.connect 138 - Connecting to /192.168.145.206:8033
+2016-07-21 13:33:39,873 DEBUG [main] - org.apache.http.impl.conn.DefaultHttpClientConnectionOperator.connect 145 - Connection established 192.168.145.136:52259<->192.168.145.206:8033
+2016-07-21 13:33:39,873 DEBUG [main] - org.apache.http.impl.execchain.MainClientExec.execute 255 - Executing request POST /api/Sra/LogMessage HTTP/1.1
+2016-07-21 13:33:39,873 DEBUG [main] - org.apache.http.impl.execchain.MainClientExec.execute 260 - Target auth state: UNCHALLENGED
+2016-07-21 13:33:39,874 DEBUG [main] - org.apache.http.impl.execchain.MainClientExec.execute 266 - Proxy auth state: UNCHALLENGED
+2016-07-21 13:33:39,876 DEBUG [main] - org.apache.http.headers.onRequestSubmitted 135 - http-outgoing-0 >> POST /api/Sra/LogMessage HTTP/1.1
+2016-07-21 13:33:39,876 DEBUG [main] - org.apache.http.headers.onRequestSubmitted 138 - http-outgoing-0 >> Content-Length: 155
+2016-07-21 13:33:39,876 DEBUG [main] - org.apache.http.headers.onRequestSubmitted 138 - http-outgoing-0 >> Content-Type: application/x-www-form-urlencoded; charset=UTF-8
+2016-07-21 13:33:39,877 DEBUG [main] - org.apache.http.headers.onRequestSubmitted 138 - http-outgoing-0 >> Host: 192.168.145.206:8033
+2016-07-21 13:33:39,877 DEBUG [main] - org.apache.http.headers.onRequestSubmitted 138 - http-outgoing-0 >> Connection: Keep-Alive
+2016-07-21 13:33:39,878 DEBUG [main] - org.apache.http.headers.onRequestSubmitted 138 - http-outgoing-0 >> User-Agent: Apache-HttpClient/4.5.2 (Java/1.8.0_77)
+2016-07-21 13:33:39,878 DEBUG [main] - org.apache.http.headers.onRequestSubmitted 138 - http-outgoing-0 >> Accept-Encoding: gzip,deflate
+2016-07-21 13:33:39,878 DEBUG [main] - org.apache.http.wire.wire 72 - http-outgoing-0 >> "POST /api/Sra/LogMessage HTTP/1.1[\r][\n]"
+2016-07-21 13:33:39,878 DEBUG [main] - org.apache.http.wire.wire 72 - http-outgoing-0 >> "Content-Length: 155[\r][\n]"
+2016-07-21 13:33:39,878 DEBUG [main] - org.apache.http.wire.wire 72 - http-outgoing-0 >> "Content-Type: application/x-www-form-urlencoded; charset=UTF-8[\r][\n]"
+2016-07-21 13:33:39,879 DEBUG [main] - org.apache.http.wire.wire 72 - http-outgoing-0 >> "Host: 192.168.145.206:8033[\r][\n]"
+2016-07-21 13:33:39,879 DEBUG [main] - org.apache.http.wire.wire 72 - http-outgoing-0 >> "Connection: Keep-Alive[\r][\n]"
+2016-07-21 13:33:39,879 DEBUG [main] - org.apache.http.wire.wire 72 - http-outgoing-0 >> "User-Agent: Apache-HttpClient/4.5.2 (Java/1.8.0_77)[\r][\n]"
+2016-07-21 13:33:39,879 DEBUG [main] - org.apache.http.wire.wire 72 - http-outgoing-0 >> "Accept-Encoding: gzip,deflate[\r][\n]"
+2016-07-21 13:33:39,879 DEBUG [main] - org.apache.http.wire.wire 72 - http-outgoing-0 >> "[\r][\n]"
+2016-07-21 13:33:39,879 DEBUG [main] - org.apache.http.wire.wire 86 - http-outgoing-0 >> "Importance=0&Site=AlexanderLogistics&System=postfix&Time=13%3A33%3A39&Workstation=&Level&Message=The+length+of+the+message+queue+is+%3A+null&ExceptionText="
+2016-07-21 13:33:39,893 DEBUG [main] - org.apache.http.wire.wire 72 - http-outgoing-0 << "HTTP/1.1 200 OK[\r][\n]"
+2016-07-21 13:33:39,894 DEBUG [main] - org.apache.http.wire.wire 72 - http-outgoing-0 << "Cache-Control: no-cache[\r][\n]"
+2016-07-21 13:33:39,894 DEBUG [main] - org.apache.http.wire.wire 72 - http-outgoing-0 << "Pragma: no-cache[\r][\n]"
+2016-07-21 13:33:39,894 DEBUG [main] - org.apache.http.wire.wire 72 - http-outgoing-0 << "Content-Type: application/json; charset=utf-8[\r][\n]"
+2016-07-21 13:33:39,894 DEBUG [main] - org.apache.http.wire.wire 72 - http-outgoing-0 << "Content-Encoding: gzip[\r][\n]"
+2016-07-21 13:33:39,894 DEBUG [main] - org.apache.http.wire.wire 72 - http-outgoing-0 << "Expires: -1[\r][\n]"
+2016-07-21 13:33:39,895 DEBUG [main] - org.apache.http.wire.wire 72 - http-outgoing-0 << "Vary: Accept-Encoding[\r][\n]"
+2016-07-21 13:33:39,895 DEBUG [main] - org.apache.http.wire.wire 72 - http-outgoing-0 << "Server: Microsoft-IIS/8.0[\r][\n]"
+2016-07-21 13:33:39,895 DEBUG [main] - org.apache.http.wire.wire 72 - http-outgoing-0 << "X-AspNet-Version: 4.0.30319[\r][\n]"
+2016-07-21 13:33:39,895 DEBUG [main] - org.apache.http.wire.wire 72 - http-outgoing-0 << "X-Powered-By: ASP.NET[\r][\n]"
+2016-07-21 13:33:39,895 DEBUG [main] - org.apache.http.wire.wire 72 - http-outgoing-0 << "Date: Thu, 21 Jul 2016 10:33:44 GMT[\r][\n]"
+2016-07-21 13:33:39,895 DEBUG [main] - org.apache.http.wire.wire 72 - http-outgoing-0 << "Content-Length: 124[\r][\n]"
+2016-07-21 13:33:39,896 DEBUG [main] - org.apache.http.wire.wire 72 - http-outgoing-0 << "[\r][\n]"
+2016-07-21 13:33:39,899 DEBUG [main] - org.apache.http.headers.onResponseReceived 124 - http-outgoing-0 << HTTP/1.1 200 OK
+2016-07-21 13:33:39,900 DEBUG [main] - org.apache.http.headers.onResponseReceived 127 - http-outgoing-0 << Cache-Control: no-cache
+2016-07-21 13:33:39,900 DEBUG [main] - org.apache.http.headers.onResponseReceived 127 - http-outgoing-0 << Pragma: no-cache
+2016-07-21 13:33:39,900 DEBUG [main] - org.apache.http.headers.onResponseReceived 127 - http-outgoing-0 << Content-Type: application/json; charset=utf-8
+2016-07-21 13:33:39,900 DEBUG [main] - org.apache.http.headers.onResponseReceived 127 - http-outgoing-0 << Content-Encoding: gzip
+2016-07-21 13:33:39,900 DEBUG [main] - org.apache.http.headers.onResponseReceived 127 - http-outgoing-0 << Expires: -1
+2016-07-21 13:33:39,900 DEBUG [main] - org.apache.http.headers.onResponseReceived 127 - http-outgoing-0 << Vary: Accept-Encoding
+2016-07-21 13:33:39,901 DEBUG [main] - org.apache.http.headers.onResponseReceived 127 - http-outgoing-0 << Server: Microsoft-IIS/8.0
+2016-07-21 13:33:39,901 DEBUG [main] - org.apache.http.headers.onResponseReceived 127 - http-outgoing-0 << X-AspNet-Version: 4.0.30319
+2016-07-21 13:33:39,901 DEBUG [main] - org.apache.http.headers.onResponseReceived 127 - http-outgoing-0 << X-Powered-By: ASP.NET
+2016-07-21 13:33:39,901 DEBUG [main] - org.apache.http.headers.onResponseReceived 127 - http-outgoing-0 << Date: Thu, 21 Jul 2016 10:33:44 GMT
+2016-07-21 13:33:39,901 DEBUG [main] - org.apache.http.headers.onResponseReceived 127 - http-outgoing-0 << Content-Length: 124
+2016-07-21 13:33:39,907 DEBUG [main] - org.apache.http.impl.execchain.MainClientExec.execute 284 - Connection can be kept alive indefinitely
+2016-07-21 13:34:13,176  INFO [main] - myLogger.getReqNo 36 - Number of requests is : null
+2016-07-21 13:34:13,179 ERROR [main] - myLogger.checkQueueStatus 32 - line 20 in QueueChecker
+2016-07-21 13:34:13,202 DEBUG [main] - org.apache.http.client.protocol.RequestAddCookies.process 122 - CookieSpec selected: default
+2016-07-21 13:34:13,215 DEBUG [main] - org.apache.http.client.protocol.RequestAuthCache.process 76 - Auth cache not set in the context
+2016-07-21 13:34:13,219 DEBUG [main] - org.apache.http.impl.conn.PoolingHttpClientConnectionManager.requestConnection 249 - Connection request: [route: {}->http://192.168.145.206:8033][total kept alive: 0; route allocated: 0 of 2; total allocated: 0 of 20]
+2016-07-21 13:34:13,232 DEBUG [main] - org.apache.http.impl.conn.PoolingHttpClientConnectionManager.leaseConnection 282 - Connection leased: [id: 0][route: {}->http://192.168.145.206:8033][total kept alive: 0; route allocated: 1 of 2; total allocated: 1 of 20]
+2016-07-21 13:34:13,234 DEBUG [main] - org.apache.http.impl.execchain.MainClientExec.execute 234 - Opening connection {}->http://192.168.145.206:8033
+2016-07-21 13:34:13,238 DEBUG [main] - org.apache.http.impl.conn.DefaultHttpClientConnectionOperator.connect 138 - Connecting to /192.168.145.206:8033
+2016-07-21 13:34:27,530  INFO [main] - myLogger.getReqNo 36 - Number of requests is : null
+2016-07-21 13:34:27,533 ERROR [main] - myLogger.checkQueueStatus 32 - java.lang.NumberFormatException: nullline 20 in QueueChecker
+2016-07-21 13:34:27,546 DEBUG [main] - org.apache.http.client.protocol.RequestAddCookies.process 122 - CookieSpec selected: default
+2016-07-21 13:34:27,556 DEBUG [main] - org.apache.http.client.protocol.RequestAuthCache.process 76 - Auth cache not set in the context
+2016-07-21 13:34:27,559 DEBUG [main] - org.apache.http.impl.conn.PoolingHttpClientConnectionManager.requestConnection 249 - Connection request: [route: {}->http://192.168.145.206:8033][total kept alive: 0; route allocated: 0 of 2; total allocated: 0 of 20]
+2016-07-21 13:34:27,574 DEBUG [main] - org.apache.http.impl.conn.PoolingHttpClientConnectionManager.leaseConnection 282 - Connection leased: [id: 0][route: {}->http://192.168.145.206:8033][total kept alive: 0; route allocated: 1 of 2; total allocated: 1 of 20]
+2016-07-21 13:34:27,575 DEBUG [main] - org.apache.http.impl.execchain.MainClientExec.execute 234 - Opening connection {}->http://192.168.145.206:8033
+2016-07-21 13:34:27,578 DEBUG [main] - org.apache.http.impl.conn.DefaultHttpClientConnectionOperator.connect 138 - Connecting to /192.168.145.206:8033
+2016-07-21 13:34:34,241 DEBUG [main] - org.apache.http.impl.conn.DefaultManagedHttpClientConnection.shutdown 98 - http-outgoing-0: Shutdown connection
+2016-07-21 13:34:34,242 DEBUG [main] - org.apache.http.impl.execchain.MainClientExec.abortConnection 128 - Connection discarded
+2016-07-21 13:34:34,242 DEBUG [main] - org.apache.http.impl.conn.PoolingHttpClientConnectionManager.releaseConnection 320 - Connection released: [id: 0][route: {}->http://192.168.145.206:8033][total kept alive: 0; route allocated: 0 of 2; total allocated: 0 of 20]
+2016-07-21 13:34:34,243 ERROR [main] - myLogger.<init> 42 - org.apache.http.conn.HttpHostConnectException: Connect to 192.168.145.206:8033 [/192.168.145.206] failed: Connection timed out: connect
+2016-07-21 13:34:37,480 DEBUG [main] - org.apache.http.impl.conn.DefaultHttpClientConnectionOperator.connect 145 - Connection established 192.168.145.136:52268<->192.168.145.206:8033
+2016-07-21 13:34:37,481 DEBUG [main] - org.apache.http.impl.execchain.MainClientExec.execute 255 - Executing request POST /api/Sra/LogMessage HTTP/1.1
+2016-07-21 13:34:37,481 DEBUG [main] - org.apache.http.impl.execchain.MainClientExec.execute 260 - Target auth state: UNCHALLENGED
+2016-07-21 13:34:37,482 DEBUG [main] - org.apache.http.impl.execchain.MainClientExec.execute 266 - Proxy auth state: UNCHALLENGED
+2016-07-21 13:34:37,485 DEBUG [main] - org.apache.http.headers.onRequestSubmitted 135 - http-outgoing-0 >> POST /api/Sra/LogMessage HTTP/1.1
+2016-07-21 13:34:37,485 DEBUG [main] - org.apache.http.headers.onRequestSubmitted 138 - http-outgoing-0 >> Content-Length: 155
+2016-07-21 13:34:37,486 DEBUG [main] - org.apache.http.headers.onRequestSubmitted 138 - http-outgoing-0 >> Content-Type: application/x-www-form-urlencoded; charset=UTF-8
+2016-07-21 13:34:37,486 DEBUG [main] - org.apache.http.headers.onRequestSubmitted 138 - http-outgoing-0 >> Host: 192.168.145.206:8033
+2016-07-21 13:34:37,487 DEBUG [main] - org.apache.http.headers.onRequestSubmitted 138 - http-outgoing-0 >> Connection: Keep-Alive
+2016-07-21 13:34:37,488 DEBUG [main] - org.apache.http.headers.onRequestSubmitted 138 - http-outgoing-0 >> User-Agent: Apache-HttpClient/4.5.2 (Java/1.8.0_77)
+2016-07-21 13:34:37,488 DEBUG [main] - org.apache.http.headers.onRequestSubmitted 138 - http-outgoing-0 >> Accept-Encoding: gzip,deflate
+2016-07-21 13:34:37,488 DEBUG [main] - org.apache.http.wire.wire 72 - http-outgoing-0 >> "POST /api/Sra/LogMessage HTTP/1.1[\r][\n]"
+2016-07-21 13:34:37,489 DEBUG [main] - org.apache.http.wire.wire 72 - http-outgoing-0 >> "Content-Length: 155[\r][\n]"
+2016-07-21 13:34:37,489 DEBUG [main] - org.apache.http.wire.wire 72 - http-outgoing-0 >> "Content-Type: application/x-www-form-urlencoded; charset=UTF-8[\r][\n]"
+2016-07-21 13:34:37,489 DEBUG [main] - org.apache.http.wire.wire 72 - http-outgoing-0 >> "Host: 192.168.145.206:8033[\r][\n]"
+2016-07-21 13:34:37,489 DEBUG [main] - org.apache.http.wire.wire 72 - http-outgoing-0 >> "Connection: Keep-Alive[\r][\n]"
+2016-07-21 13:34:37,489 DEBUG [main] - org.apache.http.wire.wire 72 - http-outgoing-0 >> "User-Agent: Apache-HttpClient/4.5.2 (Java/1.8.0_77)[\r][\n]"
+2016-07-21 13:34:37,490 DEBUG [main] - org.apache.http.wire.wire 72 - http-outgoing-0 >> "Accept-Encoding: gzip,deflate[\r][\n]"
+2016-07-21 13:34:37,490 DEBUG [main] - org.apache.http.wire.wire 72 - http-outgoing-0 >> "[\r][\n]"
+2016-07-21 13:34:37,490 DEBUG [main] - org.apache.http.wire.wire 86 - http-outgoing-0 >> "Importance=0&Site=AlexanderLogistics&System=postfix&Time=13%3A34%3A27&Workstation=&Level&Message=The+length+of+the+message+queue+is+%3A+null&ExceptionText="
+2016-07-21 13:34:37,504 DEBUG [main] - org.apache.http.wire.wire 72 - http-outgoing-0 << "HTTP/1.1 200 OK[\r][\n]"
+2016-07-21 13:34:37,505 DEBUG [main] - org.apache.http.wire.wire 72 - http-outgoing-0 << "Cache-Control: no-cache[\r][\n]"
+2016-07-21 13:34:37,505 DEBUG [main] - org.apache.http.wire.wire 72 - http-outgoing-0 << "Pragma: no-cache[\r][\n]"
+2016-07-21 13:34:37,505 DEBUG [main] - org.apache.http.wire.wire 72 - http-outgoing-0 << "Content-Type: application/json; charset=utf-8[\r][\n]"
+2016-07-21 13:34:37,505 DEBUG [main] - org.apache.http.wire.wire 72 - http-outgoing-0 << "Content-Encoding: gzip[\r][\n]"
+2016-07-21 13:34:37,505 DEBUG [main] - org.apache.http.wire.wire 72 - http-outgoing-0 << "Expires: -1[\r][\n]"
+2016-07-21 13:34:37,506 DEBUG [main] - org.apache.http.wire.wire 72 - http-outgoing-0 << "Vary: Accept-Encoding[\r][\n]"
+2016-07-21 13:34:37,506 DEBUG [main] - org.apache.http.wire.wire 72 - http-outgoing-0 << "Server: Microsoft-IIS/8.0[\r][\n]"
+2016-07-21 13:34:37,506 DEBUG [main] - org.apache.http.wire.wire 72 - http-outgoing-0 << "X-AspNet-Version: 4.0.30319[\r][\n]"
+2016-07-21 13:34:37,506 DEBUG [main] - org.apache.http.wire.wire 72 - http-outgoing-0 << "X-Powered-By: ASP.NET[\r][\n]"
+2016-07-21 13:34:37,506 DEBUG [main] - org.apache.http.wire.wire 72 - http-outgoing-0 << "Date: Thu, 21 Jul 2016 10:34:42 GMT[\r][\n]"
+2016-07-21 13:34:37,506 DEBUG [main] - org.apache.http.wire.wire 72 - http-outgoing-0 << "Content-Length: 124[\r][\n]"
+2016-07-21 13:34:37,507 DEBUG [main] - org.apache.http.wire.wire 72 - http-outgoing-0 << "[\r][\n]"
+2016-07-21 13:34:37,511 DEBUG [main] - org.apache.http.headers.onResponseReceived 124 - http-outgoing-0 << HTTP/1.1 200 OK
+2016-07-21 13:34:37,511 DEBUG [main] - org.apache.http.headers.onResponseReceived 127 - http-outgoing-0 << Cache-Control: no-cache
+2016-07-21 13:34:37,511 DEBUG [main] - org.apache.http.headers.onResponseReceived 127 - http-outgoing-0 << Pragma: no-cache
+2016-07-21 13:34:37,511 DEBUG [main] - org.apache.http.headers.onResponseReceived 127 - http-outgoing-0 << Content-Type: application/json; charset=utf-8
+2016-07-21 13:34:37,512 DEBUG [main] - org.apache.http.headers.onResponseReceived 127 - http-outgoing-0 << Content-Encoding: gzip
+2016-07-21 13:34:37,512 DEBUG [main] - org.apache.http.headers.onResponseReceived 127 - http-outgoing-0 << Expires: -1
+2016-07-21 13:34:37,512 DEBUG [main] - org.apache.http.headers.onResponseReceived 127 - http-outgoing-0 << Vary: Accept-Encoding
+2016-07-21 13:34:37,512 DEBUG [main] - org.apache.http.headers.onResponseReceived 127 - http-outgoing-0 << Server: Microsoft-IIS/8.0
+2016-07-21 13:34:37,512 DEBUG [main] - org.apache.http.headers.onResponseReceived 127 - http-outgoing-0 << X-AspNet-Version: 4.0.30319
+2016-07-21 13:34:37,512 DEBUG [main] - org.apache.http.headers.onResponseReceived 127 - http-outgoing-0 << X-Powered-By: ASP.NET
+2016-07-21 13:34:37,512 DEBUG [main] - org.apache.http.headers.onResponseReceived 127 - http-outgoing-0 << Date: Thu, 21 Jul 2016 10:34:42 GMT
+2016-07-21 13:34:37,513 DEBUG [main] - org.apache.http.headers.onResponseReceived 127 - http-outgoing-0 << Content-Length: 124
+2016-07-21 13:34:37,520 DEBUG [main] - org.apache.http.impl.execchain.MainClientExec.execute 284 - Connection can be kept alive indefinitely
+2016-07-21 13:34:37,948  INFO [main] - myLogger.getReqNo 36 - Number of requests is : null
+2016-07-21 13:34:37,951 ERROR [main] - myLogger.checkQueueStatus 32 - java.lang.NumberFormatException: null line 20 in QueueChecker
+2016-07-21 13:34:37,966 DEBUG [main] - org.apache.http.client.protocol.RequestAddCookies.process 122 - CookieSpec selected: default
+2016-07-21 13:34:37,976 DEBUG [main] - org.apache.http.client.protocol.RequestAuthCache.process 76 - Auth cache not set in the context
+2016-07-21 13:34:37,979 DEBUG [main] - org.apache.http.impl.conn.PoolingHttpClientConnectionManager.requestConnection 249 - Connection request: [route: {}->http://192.168.145.206:8033][total kept alive: 0; route allocated: 0 of 2; total allocated: 0 of 20]
+2016-07-21 13:34:37,992 DEBUG [main] - org.apache.http.impl.conn.PoolingHttpClientConnectionManager.leaseConnection 282 - Connection leased: [id: 0][route: {}->http://192.168.145.206:8033][total kept alive: 0; route allocated: 1 of 2; total allocated: 1 of 20]
+2016-07-21 13:34:37,993 DEBUG [main] - org.apache.http.impl.execchain.MainClientExec.execute 234 - Opening connection {}->http://192.168.145.206:8033
+2016-07-21 13:34:37,997 DEBUG [main] - org.apache.http.impl.conn.DefaultHttpClientConnectionOperator.connect 138 - Connecting to /192.168.145.206:8033
+2016-07-21 13:34:38,000 DEBUG [main] - org.apache.http.impl.conn.DefaultHttpClientConnectionOperator.connect 145 - Connection established 192.168.145.136:52275<->192.168.145.206:8033
+2016-07-21 13:34:38,001 DEBUG [main] - org.apache.http.impl.execchain.MainClientExec.execute 255 - Executing request POST /api/Sra/LogMessage HTTP/1.1
+2016-07-21 13:34:38,001 DEBUG [main] - org.apache.http.impl.execchain.MainClientExec.execute 260 - Target auth state: UNCHALLENGED
+2016-07-21 13:34:38,001 DEBUG [main] - org.apache.http.impl.execchain.MainClientExec.execute 266 - Proxy auth state: UNCHALLENGED
+2016-07-21 13:34:38,003 DEBUG [main] - org.apache.http.headers.onRequestSubmitted 135 - http-outgoing-0 >> POST /api/Sra/LogMessage HTTP/1.1
+2016-07-21 13:34:38,003 DEBUG [main] - org.apache.http.headers.onRequestSubmitted 138 - http-outgoing-0 >> Content-Length: 155
+2016-07-21 13:34:38,003 DEBUG [main] - org.apache.http.headers.onRequestSubmitted 138 - http-outgoing-0 >> Content-Type: application/x-www-form-urlencoded; charset=UTF-8
+2016-07-21 13:34:38,003 DEBUG [main] - org.apache.http.headers.onRequestSubmitted 138 - http-outgoing-0 >> Host: 192.168.145.206:8033
+2016-07-21 13:34:38,004 DEBUG [main] - org.apache.http.headers.onRequestSubmitted 138 - http-outgoing-0 >> Connection: Keep-Alive
+2016-07-21 13:34:38,005 DEBUG [main] - org.apache.http.headers.onRequestSubmitted 138 - http-outgoing-0 >> User-Agent: Apache-HttpClient/4.5.2 (Java/1.8.0_77)
+2016-07-21 13:34:38,005 DEBUG [main] - org.apache.http.headers.onRequestSubmitted 138 - http-outgoing-0 >> Accept-Encoding: gzip,deflate
+2016-07-21 13:34:38,005 DEBUG [main] - org.apache.http.wire.wire 72 - http-outgoing-0 >> "POST /api/Sra/LogMessage HTTP/1.1[\r][\n]"
+2016-07-21 13:34:38,005 DEBUG [main] - org.apache.http.wire.wire 72 - http-outgoing-0 >> "Content-Length: 155[\r][\n]"
+2016-07-21 13:34:38,005 DEBUG [main] - org.apache.http.wire.wire 72 - http-outgoing-0 >> "Content-Type: application/x-www-form-urlencoded; charset=UTF-8[\r][\n]"
+2016-07-21 13:34:38,005 DEBUG [main] - org.apache.http.wire.wire 72 - http-outgoing-0 >> "Host: 192.168.145.206:8033[\r][\n]"
+2016-07-21 13:34:38,006 DEBUG [main] - org.apache.http.wire.wire 72 - http-outgoing-0 >> "Connection: Keep-Alive[\r][\n]"
+2016-07-21 13:34:38,006 DEBUG [main] - org.apache.http.wire.wire 72 - http-outgoing-0 >> "User-Agent: Apache-HttpClient/4.5.2 (Java/1.8.0_77)[\r][\n]"
+2016-07-21 13:34:38,006 DEBUG [main] - org.apache.http.wire.wire 72 - http-outgoing-0 >> "Accept-Encoding: gzip,deflate[\r][\n]"
+2016-07-21 13:34:38,006 DEBUG [main] - org.apache.http.wire.wire 72 - http-outgoing-0 >> "[\r][\n]"
+2016-07-21 13:34:38,006 DEBUG [main] - org.apache.http.wire.wire 86 - http-outgoing-0 >> "Importance=0&Site=AlexanderLogistics&System=postfix&Time=13%3A34%3A37&Workstation=&Level&Message=The+length+of+the+message+queue+is+%3A+null&ExceptionText="
+2016-07-21 13:34:38,019 DEBUG [main] - org.apache.http.wire.wire 72 - http-outgoing-0 << "HTTP/1.1 200 OK[\r][\n]"
+2016-07-21 13:34:38,020 DEBUG [main] - org.apache.http.wire.wire 72 - http-outgoing-0 << "Cache-Control: no-cache[\r][\n]"
+2016-07-21 13:34:38,020 DEBUG [main] - org.apache.http.wire.wire 72 - http-outgoing-0 << "Pragma: no-cache[\r][\n]"
+2016-07-21 13:34:38,020 DEBUG [main] - org.apache.http.wire.wire 72 - http-outgoing-0 << "Content-Type: application/json; charset=utf-8[\r][\n]"
+2016-07-21 13:34:38,020 DEBUG [main] - org.apache.http.wire.wire 72 - http-outgoing-0 << "Content-Encoding: gzip[\r][\n]"
+2016-07-21 13:34:38,020 DEBUG [main] - org.apache.http.wire.wire 72 - http-outgoing-0 << "Expires: -1[\r][\n]"
+2016-07-21 13:34:38,020 DEBUG [main] - org.apache.http.wire.wire 72 - http-outgoing-0 << "Vary: Accept-Encoding[\r][\n]"
+2016-07-21 13:34:38,021 DEBUG [main] - org.apache.http.wire.wire 72 - http-outgoing-0 << "Server: Microsoft-IIS/8.0[\r][\n]"
+2016-07-21 13:34:38,021 DEBUG [main] - org.apache.http.wire.wire 72 - http-outgoing-0 << "X-AspNet-Version: 4.0.30319[\r][\n]"
+2016-07-21 13:34:38,021 DEBUG [main] - org.apache.http.wire.wire 72 - http-outgoing-0 << "X-Powered-By: ASP.NET[\r][\n]"
+2016-07-21 13:34:38,021 DEBUG [main] - org.apache.http.wire.wire 72 - http-outgoing-0 << "Date: Thu, 21 Jul 2016 10:34:42 GMT[\r][\n]"
+2016-07-21 13:34:38,021 DEBUG [main] - org.apache.http.wire.wire 72 - http-outgoing-0 << "Content-Length: 124[\r][\n]"
+2016-07-21 13:34:38,021 DEBUG [main] - org.apache.http.wire.wire 72 - http-outgoing-0 << "[\r][\n]"
+2016-07-21 13:34:38,024 DEBUG [main] - org.apache.http.headers.onResponseReceived 124 - http-outgoing-0 << HTTP/1.1 200 OK
+2016-07-21 13:34:38,024 DEBUG [main] - org.apache.http.headers.onResponseReceived 127 - http-outgoing-0 << Cache-Control: no-cache
+2016-07-21 13:34:38,024 DEBUG [main] - org.apache.http.headers.onResponseReceived 127 - http-outgoing-0 << Pragma: no-cache
+2016-07-21 13:34:38,025 DEBUG [main] - org.apache.http.headers.onResponseReceived 127 - http-outgoing-0 << Content-Type: application/json; charset=utf-8
+2016-07-21 13:34:38,025 DEBUG [main] - org.apache.http.headers.onResponseReceived 127 - http-outgoing-0 << Content-Encoding: gzip
+2016-07-21 13:34:38,025 DEBUG [main] - org.apache.http.headers.onResponseReceived 127 - http-outgoing-0 << Expires: -1
+2016-07-21 13:34:38,025 DEBUG [main] - org.apache.http.headers.onResponseReceived 127 - http-outgoing-0 << Vary: Accept-Encoding
+2016-07-21 13:34:38,025 DEBUG [main] - org.apache.http.headers.onResponseReceived 127 - http-outgoing-0 << Server: Microsoft-IIS/8.0
+2016-07-21 13:34:38,025 DEBUG [main] - org.apache.http.headers.onResponseReceived 127 - http-outgoing-0 << X-AspNet-Version: 4.0.30319
+2016-07-21 13:34:38,025 DEBUG [main] - org.apache.http.headers.onResponseReceived 127 - http-outgoing-0 << X-Powered-By: ASP.NET
+2016-07-21 13:34:38,025 DEBUG [main] - org.apache.http.headers.onResponseReceived 127 - http-outgoing-0 << Date: Thu, 21 Jul 2016 10:34:42 GMT
+2016-07-21 13:34:38,026 DEBUG [main] - org.apache.http.headers.onResponseReceived 127 - http-outgoing-0 << Content-Length: 124
+2016-07-21 13:34:38,030 DEBUG [main] - org.apache.http.impl.execchain.MainClientExec.execute 284 - Connection can be kept alive indefinitely

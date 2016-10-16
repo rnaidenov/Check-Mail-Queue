@@ -1,0 +1,65 @@
+2016-09-19 15:15:03,280  INFO [main] - myLogger.runCommand 25 - Starting process : mailq.exe
+2016-09-19 15:15:03,286 ERROR [main] - myLogger.runCommand 40 - java.io.IOException: Cannot run program "mailq.exe": CreateProcess error=2, The system cannot find the file specified
+2016-09-19 15:15:03,622  INFO [main] - myLogger.getReqNo 36 - Number of requests is : null
+2016-09-19 15:34:46,146  INFO [main] - myLogger.checkQueueStatus 40 - The length of the message queue is : 23
+2016-09-19 15:34:46,148  INFO [main] - myLogger.runCommand 25 - Starting process : mailq.exe
+2016-09-19 15:34:46,149 ERROR [main] - myLogger.runCommand 40 - java.io.IOException: Cannot run program "mailq.exe": CreateProcess error=2, The system cannot find the file specified
+2016-09-19 15:34:46,590  INFO [main] - myLogger.getReqNo 37 - Number of requests is : null
+2016-09-19 15:35:06,319  INFO [main] - myLogger.checkQueueStatus 40 - The length of the message queue is : 23
+2016-09-19 15:36:09,379  INFO [main] - myLogger.checkQueueStatus 40 - The length of the message queue is : 23
+2016-09-19 15:36:09,381  INFO [main] - myLogger.getMessage 80 - The length of the message queue is : 23
+2016-09-19 15:36:09,381  INFO [main] - myLogger.getMessageLevel 75 - ERROR !
+2016-09-19 16:50:13,082  INFO [main] - myLogger.getMessage 80 - 
+2016-09-19 16:50:13,085  INFO [main] - myLogger.getMessageLevel 75 - 
+2016-09-19 16:50:13,434  INFO [main] - myLogger.checkQueueStatus 40 - The length of the message queue is : 23
+2016-09-19 16:50:13,434  INFO [main] - myLogger.getMessageLevel 75 - ERROR !
+2016-09-19 16:50:13,434  INFO [main] - myLogger.getMessageLevel 75 - ERROR !
+2016-09-19 16:50:13,435  INFO [main] - myLogger.getMessage 80 - The length of the message queue is : 23
+2016-09-19 16:50:13,435  INFO [main] - myLogger.getMessage 80 - The length of the message queue is : 23
+2016-09-19 16:50:13,451 DEBUG [main] - org.apache.http.client.protocol.RequestAddCookies.process 122 - CookieSpec selected: default
+2016-09-19 16:50:13,462 DEBUG [main] - org.apache.http.client.protocol.RequestAuthCache.process 76 - Auth cache not set in the context
+2016-09-19 16:50:13,464 DEBUG [main] - org.apache.http.impl.conn.PoolingHttpClientConnectionManager.requestConnection 249 - Connection request: [route: {}->http://192.168.145.206:8033][total kept alive: 0; route allocated: 0 of 2; total allocated: 0 of 20]
+2016-09-19 16:50:13,478 DEBUG [main] - org.apache.http.impl.conn.PoolingHttpClientConnectionManager.leaseConnection 282 - Connection leased: [id: 0][route: {}->http://192.168.145.206:8033][total kept alive: 0; route allocated: 1 of 2; total allocated: 1 of 20]
+2016-09-19 16:50:13,479 DEBUG [main] - org.apache.http.impl.execchain.MainClientExec.execute 234 - Opening connection {}->http://192.168.145.206:8033
+2016-09-19 16:50:13,483 DEBUG [main] - org.apache.http.impl.conn.DefaultHttpClientConnectionOperator.connect 138 - Connecting to /192.168.145.206:8033
+2016-09-19 16:50:34,488 DEBUG [main] - org.apache.http.impl.conn.DefaultManagedHttpClientConnection.shutdown 98 - http-outgoing-0: Shutdown connection
+2016-09-19 16:50:34,489 DEBUG [main] - org.apache.http.impl.execchain.MainClientExec.abortConnection 128 - Connection discarded
+2016-09-19 16:50:34,490 DEBUG [main] - org.apache.http.impl.conn.PoolingHttpClientConnectionManager.releaseConnection 320 - Connection released: [id: 0][route: {}->http://192.168.145.206:8033][total kept alive: 0; route allocated: 0 of 2; total allocated: 0 of 20]
+2016-09-19 16:50:34,493 ERROR [main] - myLogger.<init> 43 - org.apache.http.conn.HttpHostConnectException: Connect to 192.168.145.206:8033 [/192.168.145.206] failed: Connection timed out: connect
+2016-09-19 16:52:15,110  INFO [main] - myLogger.getMessage 80 - 
+2016-09-19 16:52:15,112  INFO [main] - myLogger.getMessageLevel 75 - 
+2016-09-19 16:52:15,439  INFO [main] - myLogger.checkQueueStatus 40 - The length of the message queue is : 23
+2016-09-19 16:52:15,439  INFO [main] - myLogger.getMessageLevel 75 - ERROR !
+2016-09-19 16:52:15,440  INFO [main] - myLogger.getMessageLevel 75 - ERROR !
+2016-09-19 16:52:15,440  INFO [main] - myLogger.getMessage 80 - The length of the message queue is : 23
+2016-09-19 16:52:15,440  INFO [main] - myLogger.getMessage 80 - The length of the message queue is : 23
+2016-09-19 16:52:15,469 DEBUG [main] - org.apache.http.client.protocol.RequestAddCookies.process 122 - CookieSpec selected: default
+2016-09-19 16:52:15,480 DEBUG [main] - org.apache.http.client.protocol.RequestAuthCache.process 76 - Auth cache not set in the context
+2016-09-19 16:52:15,483 DEBUG [main] - org.apache.http.impl.conn.PoolingHttpClientConnectionManager.requestConnection 249 - Connection request: [route: {}->http://192.168.145.206:8033][total kept alive: 0; route allocated: 0 of 2; total allocated: 0 of 20]
+2016-09-19 16:52:15,494 DEBUG [main] - org.apache.http.impl.conn.PoolingHttpClientConnectionManager.leaseConnection 282 - Connection leased: [id: 0][route: {}->http://192.168.145.206:8033][total kept alive: 0; route allocated: 1 of 2; total allocated: 1 of 20]
+2016-09-19 16:52:15,496 DEBUG [main] - org.apache.http.impl.execchain.MainClientExec.execute 234 - Opening connection {}->http://192.168.145.206:8033
+2016-09-19 16:52:15,500 DEBUG [main] - org.apache.http.impl.conn.DefaultHttpClientConnectionOperator.connect 138 - Connecting to /192.168.145.206:8033
+2016-09-19 16:52:36,503 DEBUG [main] - org.apache.http.impl.conn.DefaultManagedHttpClientConnection.shutdown 98 - http-outgoing-0: Shutdown connection
+2016-09-19 16:52:36,504 DEBUG [main] - org.apache.http.impl.execchain.MainClientExec.abortConnection 128 - Connection discarded
+2016-09-19 16:52:36,505 DEBUG [main] - org.apache.http.impl.conn.PoolingHttpClientConnectionManager.releaseConnection 320 - Connection released: [id: 0][route: {}->http://192.168.145.206:8033][total kept alive: 0; route allocated: 0 of 2; total allocated: 0 of 20]
+2016-09-19 16:52:36,512 ERROR [main] - myLogger.<init> 43 - org.apache.http.conn.HttpHostConnectException: Connect to 192.168.145.206:8033 [/192.168.145.206] failed: Connection timed out: connect
+2016-09-19 16:52:57,544  INFO [main] - myLogger.getMessage 80 - 
+2016-09-19 16:52:57,545  INFO [main] - myLogger.getMessageLevel 75 - 
+2016-09-19 16:52:57,888  INFO [main] - myLogger.checkQueueStatus 40 - The length of the message queue is : 23
+2016-09-19 16:52:57,889  INFO [main] - myLogger.getMessageLevel 75 - ERROR !
+2016-09-19 16:52:57,889  INFO [main] - myLogger.getMessageLevel 75 - ERROR !
+2016-09-19 16:52:57,889  INFO [main] - myLogger.getMessage 80 - The length of the message queue is : 23
+2016-09-19 16:52:57,889  INFO [main] - myLogger.getMessage 80 - The length of the message queue is : 23
+2016-09-19 16:52:57,904 DEBUG [main] - org.apache.http.client.protocol.RequestAddCookies.process 122 - CookieSpec selected: default
+2016-09-19 16:52:57,912 DEBUG [main] - org.apache.http.client.protocol.RequestAuthCache.process 76 - Auth cache not set in the context
+2016-09-19 16:52:57,914 DEBUG [main] - org.apache.http.impl.conn.PoolingHttpClientConnectionManager.requestConnection 249 - Connection request: [route: {}->http://192.168.145.206:8033][total kept alive: 0; route allocated: 0 of 2; total allocated: 0 of 20]
+2016-09-19 16:52:57,924 DEBUG [main] - org.apache.http.impl.conn.PoolingHttpClientConnectionManager.leaseConnection 282 - Connection leased: [id: 0][route: {}->http://192.168.145.206:8033][total kept alive: 0; route allocated: 1 of 2; total allocated: 1 of 20]
+2016-09-19 16:52:57,926 DEBUG [main] - org.apache.http.impl.execchain.MainClientExec.execute 234 - Opening connection {}->http://192.168.145.206:8033
+2016-09-19 16:52:57,929 DEBUG [main] - org.apache.http.impl.conn.DefaultHttpClientConnectionOperator.connect 138 - Connecting to /192.168.145.206:8033
+2016-09-19 16:53:18,932 DEBUG [main] - org.apache.http.impl.conn.DefaultManagedHttpClientConnection.shutdown 98 - http-outgoing-0: Shutdown connection
+2016-09-19 16:53:18,933 DEBUG [main] - org.apache.http.impl.execchain.MainClientExec.abortConnection 128 - Connection discarded
+2016-09-19 16:53:18,934 DEBUG [main] - org.apache.http.impl.conn.PoolingHttpClientConnectionManager.releaseConnection 320 - Connection released: [id: 0][route: {}->http://192.168.145.206:8033][total kept alive: 0; route allocated: 0 of 2; total allocated: 0 of 20]
+2016-09-19 16:53:18,937 ERROR [main] - myLogger.<init> 43 - org.apache.http.conn.HttpHostConnectException: Connect to 192.168.145.206:8033 [/192.168.145.206] failed: Connection timed out: connect
+2016-09-19 17:06:12,149  INFO [main] - myLogger.runCommand 26 - Starting process : mailq.exe
+2016-09-19 17:06:12,152 ERROR [main] - myLogger.runCommand 41 - java.io.IOException: Cannot run program "mailq.exe": CreateProcess error=2, The system cannot find the file specified
+2016-09-19 17:06:12,478  INFO [main] - myLogger.getReqNo 37 - Number of requests is : null
